@@ -1,0 +1,11 @@
+{
+  "seed": 20260923,
+  "batch_size": 64,
+  "eval_batch_size": 128,
+  "epochs": 12,
+  "patience": 3,
+  "head_lr": 0.001,
+  "bert_lr": 0.00003,
+  "weight_decay": 0.01,
+  "huber_weight": 0.5
+}

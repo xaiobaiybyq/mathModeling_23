@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+
+# 原始赛题数据与外部预训练源权重不进入代码仓库。
+E题数据/
+data/
+*.pkl
+*.pickle
+*.docx
+*.zip
+*.safetensors
