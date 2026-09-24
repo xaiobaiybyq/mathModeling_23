@@ -34,6 +34,8 @@ python3 -m venv .venv
 
 最终模型及五个独立 test 场景在 `final_test_plan.json` 中预先锁定，`final_test.py` 已运行一次，汇总结果见 `results/final_test/test_metrics.csv`。脚本对已存在的结果设置重复运行保护；test 没有用于修改模型或附件3预测。`final_report.py` 只读取已保存的汇总指标，可重新生成 `第二问最终报告.md`、三因素汇总表和图，不再读取 test 原始样本。
 
+用于论文正文的问题二章节见 `论文问题二正文.md`：按问题分析、符号与假设、模型、求解、缺失因素、附件3全量预测和模型评价组织。`python3 paper_table.py` 可由已锁定的附件3 CSV 重新填入30行预测表。该章节只覆盖问题二，全文提交时需与问题一、问题三及竞赛统一格式合并。
+
 `problem2.py all` 可从头复现普通五模型与消融；优化版复用相同的有效位定义、训练集标准化统计和固定验证方案。优化版使用 [Google BERT Tiny](https://huggingface.co/google/bert_uncased_L-2_H-128_A-2) 通用语言预训练权重，来源、架构和 SHA-256 均记录在 `优化报告.md`。要从头训练优化版，先从该模型页下载 `model.safetensors`，然后运行：
 
 ```bash
