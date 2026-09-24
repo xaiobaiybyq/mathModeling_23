@@ -1,5 +1,7 @@
 # E题第二问复现实验
 
+供后续论文整合使用的简明说明见[工作交付说明](工作交付说明.md)。
+
 ## 当前推荐结果
 
 当前推荐使用 `results/modeling_experiment/attachment3_predictions_two_seed.csv`：两个独立训练的 BERT Tiny 动态融合模型等权集成，再将分类概率与普通动态融合模型按 85%/15% 融合；强度为两个 BERT Tiny 回归输出的均值。完整 valid Accuracy 0.6044、宏 F1 0.5763、MAE 0.6511、Pearson 0.5461；锁定后的独立 test 为 Accuracy 0.6039、宏 F1 0.5511、MAE 0.7295、Pearson 0.5495。可直接用于论文写作的综合说明见 `第二问最终报告.md`。三个模型参数分别为 `results/optimization/tiny_weighted.pt`、`results/modeling_experiment/tiny_weighted.pt`、`results/checkpoint_full.pt`。先前推荐的单种子结果保留在 `results/calibration/attachment3_predictions_calibrated.csv`，比较见 `进一步优化报告.md`。数据边界审计见 `数据边界审计报告.md`；原优化模型结果见 `优化报告.md`。`results/checkpoint_fixed.pt` 保留供固定权重消融对照。修正前的小型指标文件已归档于 `results/pre_boundary_audit`，旧指标不能作为修正后模型的结果。整个 `问题2` 目录低于50 MB限制。
