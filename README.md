@@ -28,6 +28,10 @@ python3 -m venv .venv
 
 `modeling_experiment.py run --pretrained /path/to/model.safetensors` 用固定的新种子再训练一次同结构模型，在预设 valid 五场景规则下评估等权双种子集成，并保存50场景指标和推荐预测。`modeling_experiment.py refresh` 从保存的参数重新生成50场景表、错误审阅并核验预测；`verify` 只核验30条预测，均无需预训练源文件。新模型权重以 float16 保存，加载到 float32 网络后推理。附件2 test 未读取；附件3只在模型采用后进行最终推理。
 
+继续优化时，又在附件2 train 内固定分出2716条训练、679条检查样本，按相同规则比较了完整/缺失一致性训练和文本连续缺失增强。两者都没有通过预设采用门槛，结果见 `一致性训练实验报告.md`、`文本缺失增强实验报告.md`，当前推荐模型及30条预测未改变。可先运行 `consistency_experiment.py run --pretrained /path/to/model.safetensors` 复现基线和一致性候选，再运行 `focused_mask_experiment.py run --pretrained /path/to/model.safetensors` 复现文本增强候选。后者复用前者保存的 train 内基线检查结果。附件2 test、附件3均未参与这两轮候选选择。
+
+另根据 train 检查折的分类指标尝试 `class_only_hybrid.py run --pretrained /path/to/model.safetensors`：文本增强模型仅参与极性预测，强度沿用双种子模型。valid 完整输入 Accuracy 略升至0.6071，但宏 F1 降至0.5708，未达到预设门槛，故没有替换推荐预测。详细七场景指标和决策见 `分类专用优化实验报告.md`；三次实验的总览见 `继续优化结论.md`。未采用的候选权重没有加入提交目录。
+
 `problem2.py all` 可从头复现普通五模型与消融；优化版复用相同的有效位定义、训练集标准化统计和固定验证方案。优化版使用 [Google BERT Tiny](https://huggingface.co/google/bert_uncased_L-2_H-128_A-2) 通用语言预训练权重，来源、架构和 SHA-256 均记录在 `优化报告.md`。要从头训练优化版，先从该模型页下载 `model.safetensors`，然后运行：
 
 ```bash

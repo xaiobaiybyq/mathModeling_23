@@ -1,0 +1,12 @@
+[
+  {
+    "mode": "baseline",
+    "best_epoch": 5,
+    "selection_score": 0.33567963309689974
+  },
+  {
+    "mode": "consistency",
+    "best_epoch": 4,
+    "selection_score": 0.328025684657759
+  }
+]
