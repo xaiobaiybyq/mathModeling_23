@@ -1,0 +1,801 @@
+{
+  "id": "-UUCSKoHeMA$_$0",
+  "video_id": "-UUCSKoHeMA",
+  "clip_id": "0",
+  "source_video": "-UUCSKoHeMA/0.mp4",
+  "raw_text": "I mentioned a word in the last clip called 'monotone', and I want to talk about that briefly.",
+  "label": 0.0,
+  "annotation": "Neutral",
+  "duration_seconds": 7.8,
+  "container_origin_seconds": 0.0,
+  "video_fps": 30.0,
+  "video_width": 470,
+  "video_height": 360,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 7.73225,
+  "source_sha256": "3f9792888ec8e969f61cfb6cb4de7bdf7ef8944afe0a9d2a9d13586e1f13b898",
+  "words": [
+    "I",
+    "mentioned",
+    "a",
+    "word",
+    "in",
+    "the",
+    "last",
+    "clip",
+    "called",
+    "monotone",
+    "and",
+    "I",
+    "want",
+    "to",
+    "talk",
+    "about",
+    "that",
+    "briefly"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1
+      ],
+      "subtoken_ids": [
+        1045
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        2
+      ],
+      "subtoken_ids": [
+        3855
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        3
+      ],
+      "subtoken_ids": [
+        1037
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        2773
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5
+      ],
+      "subtoken_ids": [
+        1999
+      ]
+    },
+    {
+      "word_index": 5,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        6
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 6,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        7
+      ],
+      "subtoken_ids": [
+        2197
+      ]
+    },
+    {
+      "word_index": 7,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        8
+      ],
+      "subtoken_ids": [
+        12528
+      ]
+    },
+    {
+      "word_index": 8,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        9
+      ],
+      "subtoken_ids": [
+        2170
+      ]
+    },
+    {
+      "word_index": 9,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        10,
+        11
+      ],
+      "subtoken_ids": [
+        18847,
+        5524
+      ]
+    },
+    {
+      "word_index": 10,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        12
+      ],
+      "subtoken_ids": [
+        1998
+      ]
+    },
+    {
+      "word_index": 11,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        13
+      ],
+      "subtoken_ids": [
+        1045
+      ]
+    },
+    {
+      "word_index": 12,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        14
+      ],
+      "subtoken_ids": [
+        2215
+      ]
+    },
+    {
+      "word_index": 13,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        15
+      ],
+      "subtoken_ids": [
+        2000
+      ]
+    },
+    {
+      "word_index": 14,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        16
+      ],
+      "subtoken_ids": [
+        2831
+      ]
+    },
+    {
+      "word_index": 15,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        17
+      ],
+      "subtoken_ids": [
+        2055
+      ]
+    },
+    {
+      "word_index": 16,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        18
+      ],
+      "subtoken_ids": [
+        2008
+      ]
+    },
+    {
+      "word_index": 17,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        19
+      ],
+      "subtoken_ids": [
+        4780
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "I",
+      "MENTIONED",
+      "A",
+      "WORD",
+      "IN",
+      "THE",
+      "LAST",
+      "CLIP",
+      "CALLED",
+      "MONOTONE",
+      "AND",
+      "I",
+      "WANT",
+      "TO",
+      "TALK",
+      "ABOUT",
+      "THAT",
+      "BRIEFLY"
+    ],
+    "greedy_transcript_for_qc_only": "OKA MENTIONED A WORD AN THE LAST CLIP CALLED MONOTONE AND I WANT TO TALK ABOUT THAT BRIEFLY WHAT YOU",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      143,
+      144,
+      145,
+      146
+    ],
+    [
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    [
+      205,
+      206,
+      207,
+      208
+    ],
+    [
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    [
+      267,
+      268,
+      269,
+      270,
+      271,
+      272
+    ],
+    [
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286
+    ],
+    [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    [
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362
+    ],
+    [
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400
+    ],
+    [
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496
+    ],
+    [
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554
+    ],
+    [
+      557,
+      558,
+      559,
+      560
+    ],
+    [
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578
+    ],
+    [
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586
+    ],
+    [
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610
+    ],
+    [
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642
+    ],
+    [
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664
+    ],
+    [
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [
+      14,
+      15
+    ],
+    [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    [
+      21
+    ],
+    [
+      21,
+      22,
+      23,
+      24
+    ],
+    [
+      27
+    ],
+    [
+      28,
+      29
+    ],
+    [
+      29,
+      30,
+      31,
+      32
+    ],
+    [
+      34,
+      35,
+      36
+    ],
+    [
+      38,
+      39,
+      40
+    ],
+    [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    [
+      55
+    ],
+    [
+      56
+    ],
+    [
+      57,
+      58
+    ],
+    [
+      58,
+      59
+    ],
+    [
+      59,
+      60,
+      61
+    ],
+    [
+      62,
+      63,
+      64
+    ],
+    [
+      65,
+      66
+    ],
+    [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ]
+  ],
+  "feature_file": "features/-UUCSKoHeMA$_$0.npz",
+  "feature_sha256": "a726b10581c3d3b19442612228e722c51ac155ee488617971c08a7f9f30fff85",
+  "warnings": [],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "ok",
+  "processing_seconds": 3.077,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "ad2dcf635a3aeff650494901e2293ad34b2d585259a1ac476846b6a33e3feae6",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

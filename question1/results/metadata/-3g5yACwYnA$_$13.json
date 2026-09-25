@@ -1,0 +1,623 @@
+{
+  "id": "-3g5yACwYnA$_$13",
+  "video_id": "-3g5yACwYnA",
+  "clip_id": "13",
+  "source_video": "-3g5yACwYnA/13.mp4",
+  "raw_text": "They've been able to find solutions or at least bring some answers to the table.",
+  "label": 0.6666666865348816,
+  "annotation": "Positive",
+  "duration_seconds": 5.514,
+  "container_origin_seconds": 0.0,
+  "video_fps": 30.0,
+  "video_width": 1280,
+  "video_height": 720,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 5.399125,
+  "source_sha256": "aeb47627f59dce3d0a85a44ef35e4a3bc18211498e98c8c11cf60269646df24f",
+  "words": [
+    "They've",
+    "been",
+    "able",
+    "to",
+    "find",
+    "solutions",
+    "or",
+    "at",
+    "least",
+    "bring",
+    "some",
+    "answers",
+    "to",
+    "the",
+    "table"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1,
+        2,
+        3
+      ],
+      "subtoken_ids": [
+        2027,
+        1005,
+        2310
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        2042
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5
+      ],
+      "subtoken_ids": [
+        2583
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        6
+      ],
+      "subtoken_ids": [
+        2000
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        7
+      ],
+      "subtoken_ids": [
+        2424
+      ]
+    },
+    {
+      "word_index": 5,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        8
+      ],
+      "subtoken_ids": [
+        7300
+      ]
+    },
+    {
+      "word_index": 6,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        9
+      ],
+      "subtoken_ids": [
+        2030
+      ]
+    },
+    {
+      "word_index": 7,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        10
+      ],
+      "subtoken_ids": [
+        2012
+      ]
+    },
+    {
+      "word_index": 8,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        11
+      ],
+      "subtoken_ids": [
+        2560
+      ]
+    },
+    {
+      "word_index": 9,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        12
+      ],
+      "subtoken_ids": [
+        3288
+      ]
+    },
+    {
+      "word_index": 10,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        13
+      ],
+      "subtoken_ids": [
+        2070
+      ]
+    },
+    {
+      "word_index": 11,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        14
+      ],
+      "subtoken_ids": [
+        6998
+      ]
+    },
+    {
+      "word_index": 12,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        15
+      ],
+      "subtoken_ids": [
+        2000
+      ]
+    },
+    {
+      "word_index": 13,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        16
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 14,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        17
+      ],
+      "subtoken_ids": [
+        2795
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "THEY'VE",
+      "BEEN",
+      "ABLE",
+      "TO",
+      "FIND",
+      "SOLUTIONS",
+      "OR",
+      "AT",
+      "LEAST",
+      "BRING",
+      "SOME",
+      "ANSWERS",
+      "TO",
+      "THE",
+      "TABLE"
+    ],
+    "greedy_transcript_for_qc_only": "THAT WE DO O THEY'VE BEEN ABLE TO FIND SOLUTIONS OR EARTLY SOPRING SOME MANCERS TO THE TABLE",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174
+    ],
+    [
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190
+    ],
+    [
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202
+    ],
+    [
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238
+    ],
+    [
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292
+    ],
+    [
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308
+    ],
+    [
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324
+    ],
+    [
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340
+    ],
+    [
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372
+    ],
+    [
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396
+    ],
+    [
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434
+    ],
+    [
+      437,
+      438,
+      439,
+      440,
+      441,
+      442
+    ],
+    [
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456
+    ],
+    [
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [
+      14,
+      15,
+      16
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      20
+    ],
+    [
+      22,
+      23,
+      24
+    ],
+    [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    [
+      30,
+      31
+    ],
+    [
+      32
+    ],
+    [
+      33,
+      34
+    ],
+    [
+      35,
+      36,
+      37
+    ],
+    [
+      38,
+      39,
+      40
+    ],
+    [
+      41,
+      42,
+      43
+    ],
+    [
+      44
+    ],
+    [
+      45,
+      46
+    ],
+    [
+      46,
+      47,
+      48,
+      49
+    ]
+  ],
+  "feature_file": "features/-3g5yACwYnA$_$13.npz",
+  "feature_sha256": "a8dada197b5ab54bdedc40a863e6f07311bb3b978ffd1bb4f89b01517774a571",
+  "warnings": [
+    "low_alignment_confidence"
+  ],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "review_required",
+  "processing_seconds": 3.303,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "3e02bea0f2c869703758fa12b51c218c618a58ac420b5a484353ad9537133617",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

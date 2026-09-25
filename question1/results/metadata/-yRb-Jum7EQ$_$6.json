@@ -1,0 +1,1024 @@
+{
+  "id": "-yRb-Jum7EQ$_$6",
+  "video_id": "-yRb-Jum7EQ",
+  "clip_id": "6",
+  "source_video": "-yRb-Jum7EQ/6.mp4",
+  "raw_text": "Therefore, the world needs to stand with Israel against this incitement, which is the number one cause of terrorism.",
+  "label": 0.0,
+  "annotation": "Neutral",
+  "duration_seconds": 11.2425625,
+  "container_origin_seconds": 0.0,
+  "video_fps": 30.0,
+  "video_width": 1280,
+  "video_height": 720,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 11.2425625,
+  "source_sha256": "b51eb9ad06de804934cb6a315de591ba9ff7f8aa71bffff7f8001ab29945d989",
+  "words": [
+    "Therefore",
+    "the",
+    "world",
+    "needs",
+    "to",
+    "stand",
+    "with",
+    "Israel",
+    "against",
+    "this",
+    "incitement",
+    "which",
+    "is",
+    "the",
+    "number",
+    "one",
+    "cause",
+    "of",
+    "terrorism"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1
+      ],
+      "subtoken_ids": [
+        3568
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        2
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        3
+      ],
+      "subtoken_ids": [
+        2088
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        3791
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5
+      ],
+      "subtoken_ids": [
+        2000
+      ]
+    },
+    {
+      "word_index": 5,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        6
+      ],
+      "subtoken_ids": [
+        3233
+      ]
+    },
+    {
+      "word_index": 6,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        7
+      ],
+      "subtoken_ids": [
+        2007
+      ]
+    },
+    {
+      "word_index": 7,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        8
+      ],
+      "subtoken_ids": [
+        3956
+      ]
+    },
+    {
+      "word_index": 8,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        9
+      ],
+      "subtoken_ids": [
+        2114
+      ]
+    },
+    {
+      "word_index": 9,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        10
+      ],
+      "subtoken_ids": [
+        2023
+      ]
+    },
+    {
+      "word_index": 10,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        11,
+        12,
+        13
+      ],
+      "subtoken_ids": [
+        4297,
+        4221,
+        3672
+      ]
+    },
+    {
+      "word_index": 11,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        14
+      ],
+      "subtoken_ids": [
+        2029
+      ]
+    },
+    {
+      "word_index": 12,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        15
+      ],
+      "subtoken_ids": [
+        2003
+      ]
+    },
+    {
+      "word_index": 13,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        16
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 14,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        17
+      ],
+      "subtoken_ids": [
+        2193
+      ]
+    },
+    {
+      "word_index": 15,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        18
+      ],
+      "subtoken_ids": [
+        2028
+      ]
+    },
+    {
+      "word_index": 16,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        19
+      ],
+      "subtoken_ids": [
+        3426
+      ]
+    },
+    {
+      "word_index": 17,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        20
+      ],
+      "subtoken_ids": [
+        1997
+      ]
+    },
+    {
+      "word_index": 18,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        21
+      ],
+      "subtoken_ids": [
+        10130
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "THEREFORE",
+      "THE",
+      "WORLD",
+      "NEEDS",
+      "TO",
+      "STAND",
+      "WITH",
+      "ISRAEL",
+      "AGAINST",
+      "THIS",
+      "INCITEMENT",
+      "WHICH",
+      "IS",
+      "THE",
+      "NUMBER",
+      "ONE",
+      "CAUSE",
+      "OF",
+      "TERRORISM"
+    ],
+    "greedy_transcript_for_qc_only": "TE LAQENA WILL AMTAFLITYETSE IMISOIL NEGEDA SATAZOV SHE GOEM MISPAVIRAD LOTEVO NIMO DELOCANT TE DALABA",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172
+    ],
+    [
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    [
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282
+    ],
+    [
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436
+    ],
+    [
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468
+    ],
+    [
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666
+    ],
+    [
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704
+    ],
+    [
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718
+    ],
+    [
+      753,
+      754,
+      755,
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776
+    ],
+    [
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982,
+      983,
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990,
+      991,
+      992
+    ],
+    [
+      993,
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000,
+      1001,
+      1002
+    ],
+    [
+      1013,
+      1014,
+      1015,
+      1016,
+      1017,
+      1018,
+      1019,
+      1020,
+      1021,
+      1022,
+      1023,
+      1024,
+      1025,
+      1026,
+      1027,
+      1028,
+      1029,
+      1030
+    ],
+    [
+      1043,
+      1044,
+      1045,
+      1046,
+      1047,
+      1048
+    ],
+    [
+      1049,
+      1050,
+      1051,
+      1052,
+      1053,
+      1054,
+      1055,
+      1056,
+      1057,
+      1058,
+      1059,
+      1060,
+      1061,
+      1062,
+      1063,
+      1064,
+      1065,
+      1066,
+      1067,
+      1068,
+      1069,
+      1070,
+      1071,
+      1072,
+      1073,
+      1074,
+      1075,
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088,
+      1089,
+      1090,
+      1091,
+      1092,
+      1093,
+      1094,
+      1095,
+      1096,
+      1097,
+      1098
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [
+      4,
+      5,
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11,
+      12
+    ],
+    [
+      12,
+      13
+    ],
+    [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    [
+      18,
+      19,
+      20
+    ],
+    [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    [
+      44,
+      45,
+      46,
+      47
+    ],
+    [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    [
+      67,
+      68,
+      69,
+      70
+    ],
+    [
+      71,
+      72
+    ],
+    [
+      75,
+      76,
+      77,
+      78
+    ],
+    [
+      97,
+      98,
+      99
+    ],
+    [
+      99,
+      100
+    ],
+    [
+      101,
+      102,
+      103
+    ],
+    [
+      104,
+      105
+    ],
+    [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ]
+  ],
+  "feature_file": "features/-yRb-Jum7EQ$_$6.npz",
+  "feature_sha256": "d3e95a0487e358aa9e1a67eae310bb7d29a1bde011bb58353c8a4c99369516e4",
+  "warnings": [
+    "low_alignment_confidence"
+  ],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "review_required",
+  "processing_seconds": 2.798,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "6531b96ee64cf5e8fda8b9513beb6f72187009897293d8f9ae70ba78aa1c867e",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

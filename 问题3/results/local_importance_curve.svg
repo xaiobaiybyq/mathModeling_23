@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350">
+<rect width="760" height="350" fill="white"/>
+<text x="25" y="30" font-size="18" font-family="sans-serif">附件4 11：text 连续遮挡窗口的原预测类别概率变化</text>
+<text x="25" y="52" font-size="12" font-family="sans-serif" fill="#555">正值表示该窗口支持原预测类别；负值表示遮挡后原类别概率反而升高</text>
+<line x1="65" y1="170" x2="710" y2="170" stroke="#777"/>
+<polyline points="70.0,151.5 127.3,65.8 184.5,95.3 241.8,121.7 299.1,199.5 356.4,202.8 413.6,220.8 470.9,172.7 528.2,150.0 585.5,118.5 642.7,139.2 700.0,198.3" fill="none" stroke="#3166ad" stroke-width="2.4"/>
+<line x1="127.3" y1="65" x2="127.3" y2="295" stroke="#ce5b3d" stroke-dasharray="5,4"/>
+<text x="133.3" y="78" font-size="12" font-family="sans-serif" fill="#ce5b3d">主证据窗口起点 2</text>
+<text x="58" y="315" font-size="12" font-family="sans-serif">起点 1</text>
+<text x="650" y="315" font-size="12" font-family="sans-serif">起点 12</text>
+</svg>

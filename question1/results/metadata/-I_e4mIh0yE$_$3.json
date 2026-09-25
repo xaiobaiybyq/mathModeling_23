@@ -1,0 +1,971 @@
+{
+  "id": "-I_e4mIh0yE$_$3",
+  "video_id": "-I_e4mIh0yE",
+  "clip_id": "3",
+  "source_video": "-I_e4mIh0yE/3.mp4",
+  "raw_text": "It's perceived that you have actually learned something, over the course of your carreer, and that you won't make the mistake twice.",
+  "label": 0.6666666865348816,
+  "annotation": "Positive",
+  "duration_seconds": 9.1630625,
+  "container_origin_seconds": 0.0,
+  "video_fps": 30.0,
+  "video_width": 640,
+  "video_height": 360,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 8.994375,
+  "source_sha256": "a015f02ae51d74c42ad27e2a0831263a303f0658ac8d984819e27ad61342b23e",
+  "words": [
+    "It's",
+    "perceived",
+    "that",
+    "you",
+    "have",
+    "actually",
+    "learned",
+    "something",
+    "over",
+    "the",
+    "course",
+    "of",
+    "your",
+    "carreer",
+    "and",
+    "that",
+    "you",
+    "won't",
+    "make",
+    "the",
+    "mistake",
+    "twice"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1,
+        2,
+        3
+      ],
+      "subtoken_ids": [
+        2009,
+        1005,
+        1055
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        8690
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5
+      ],
+      "subtoken_ids": [
+        2008
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        6
+      ],
+      "subtoken_ids": [
+        2017
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        7
+      ],
+      "subtoken_ids": [
+        2031
+      ]
+    },
+    {
+      "word_index": 5,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        8
+      ],
+      "subtoken_ids": [
+        2941
+      ]
+    },
+    {
+      "word_index": 6,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        9
+      ],
+      "subtoken_ids": [
+        4342
+      ]
+    },
+    {
+      "word_index": 7,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        10
+      ],
+      "subtoken_ids": [
+        2242
+      ]
+    },
+    {
+      "word_index": 8,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        11
+      ],
+      "subtoken_ids": [
+        2058
+      ]
+    },
+    {
+      "word_index": 9,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        12
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 10,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        13
+      ],
+      "subtoken_ids": [
+        2607
+      ]
+    },
+    {
+      "word_index": 11,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        14
+      ],
+      "subtoken_ids": [
+        1997
+      ]
+    },
+    {
+      "word_index": 12,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        15
+      ],
+      "subtoken_ids": [
+        2115
+      ]
+    },
+    {
+      "word_index": 13,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        16,
+        17
+      ],
+      "subtoken_ids": [
+        12385,
+        11510
+      ]
+    },
+    {
+      "word_index": 14,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        18
+      ],
+      "subtoken_ids": [
+        1998
+      ]
+    },
+    {
+      "word_index": 15,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        19
+      ],
+      "subtoken_ids": [
+        2008
+      ]
+    },
+    {
+      "word_index": 16,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        20
+      ],
+      "subtoken_ids": [
+        2017
+      ]
+    },
+    {
+      "word_index": 17,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        21,
+        22,
+        23
+      ],
+      "subtoken_ids": [
+        2180,
+        1005,
+        1056
+      ]
+    },
+    {
+      "word_index": 18,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        24
+      ],
+      "subtoken_ids": [
+        2191
+      ]
+    },
+    {
+      "word_index": 19,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        25
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 20,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        26
+      ],
+      "subtoken_ids": [
+        6707
+      ]
+    },
+    {
+      "word_index": 21,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        27
+      ],
+      "subtoken_ids": [
+        3807
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "IT'S",
+      "PERCEIVED",
+      "THAT",
+      "YOU",
+      "HAVE",
+      "ACTUALLY",
+      "LEARNED",
+      "SOMETHING",
+      "OVER",
+      "THE",
+      "COURSE",
+      "OF",
+      "YOUR",
+      "CARREER",
+      "AND",
+      "THAT",
+      "YOU",
+      "WON'T",
+      "MAKE",
+      "THE",
+      "MISTAKE",
+      "TWICE"
+    ],
+    "greedy_transcript_for_qc_only": "IT'S PERCEIVED THAT YOU'VE ACTUALLY TS IT'S PERCEIVED THAT YOU'VE ACTUALLY LEARNED SOMETHING AH OVER THE COURSEEER CAREER AND THAT YOU WON'T MAKE THE MISTAKE TWICE MY",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    [
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166
+    ],
+    [
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204
+    ],
+    [
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336
+    ],
+    [
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370
+    ],
+    [
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408
+    ],
+    [
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468
+    ],
+    [
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    [
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570
+    ],
+    [
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594
+    ],
+    [
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602
+    ],
+    [
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616
+    ],
+    [
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644
+    ],
+    [
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654
+    ],
+    [
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664
+    ],
+    [
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678
+    ],
+    [
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700,
+      701,
+      702,
+      703,
+      704
+    ],
+    [
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750
+    ],
+    [
+      753,
+      754,
+      755,
+      756,
+      757,
+      758,
+      759,
+      760
+    ],
+    [
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      793,
+      794,
+      795,
+      796
+    ],
+    [
+      805,
+      806,
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814,
+      815,
+      816,
+      817,
+      818,
+      819,
+      820,
+      821,
+      822,
+      823,
+      824,
+      825,
+      826,
+      827,
+      828,
+      829,
+      830,
+      831,
+      832,
+      833,
+      834,
+      835,
+      836,
+      837,
+      838
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [
+      6,
+      7
+    ],
+    [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      15,
+      16,
+      17
+    ],
+    [
+      17,
+      18,
+      19,
+      20
+    ],
+    [
+      31,
+      32,
+      33,
+      34
+    ],
+    [
+      34,
+      35,
+      36,
+      37
+    ],
+    [
+      38,
+      39,
+      40,
+      41
+    ],
+    [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    [
+      55,
+      56
+    ],
+    [
+      56,
+      57
+    ],
+    [
+      57,
+      58,
+      59
+    ],
+    [
+      60
+    ],
+    [
+      61,
+      62
+    ],
+    [
+      62,
+      63,
+      64
+    ],
+    [
+      65
+    ],
+    [
+      66
+    ],
+    [
+      67,
+      68
+    ],
+    [
+      68,
+      69,
+      70
+    ],
+    [
+      73,
+      74,
+      75
+    ],
+    [
+      75,
+      76
+    ],
+    [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    [
+      81,
+      82,
+      83,
+      84
+    ]
+  ],
+  "feature_file": "features/-I_e4mIh0yE$_$3.npz",
+  "feature_sha256": "b3e2f4b6c800a65018bf9466bd3b5c8ff94cd3217902531fd397026021539d6f",
+  "warnings": [
+    "low_alignment_confidence"
+  ],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "review_required",
+  "processing_seconds": 3.44,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "8d86f81edc52d18c7c7b5a6e0d6d1c9650cae7588403f6b1e13daf6a1fb0864b",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

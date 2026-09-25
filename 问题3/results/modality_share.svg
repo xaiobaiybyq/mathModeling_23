@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="340" viewBox="0 0 710 340">
+<rect width="710" height="340" fill="white"/>
+<text x="28" y="30" font-size="19" font-family="sans-serif">附件4样本的平均模态作用占比</text>
+<text x="28" y="54" font-size="12" font-family="sans-serif" fill="#555">连续遮挡敏感度，非因果贡献；n=20</text>
+<text x="30" y="115" font-size="16" font-family="sans-serif">文本</text>
+<rect x="100" y="95" width="397.3" height="28" fill="#305aaf"/>
+<text x="507.3" y="115" font-size="14" font-family="sans-serif">79.5%；主要参考 20 条</text>
+<text x="30" y="190" font-size="16" font-family="sans-serif">语音</text>
+<rect x="100" y="170" width="63.2" height="28" fill="#d46a48"/>
+<text x="173.2" y="190" font-size="14" font-family="sans-serif">12.6%；主要参考 0 条</text>
+<text x="30" y="265" font-size="16" font-family="sans-serif">视觉</text>
+<rect x="100" y="245" width="39.5" height="28" fill="#409a82"/>
+<text x="149.5" y="265" font-size="14" font-family="sans-serif">7.9%；主要参考 0 条</text>
+</svg>

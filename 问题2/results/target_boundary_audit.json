@@ -1,0 +1,14 @@
+{
+  "samples": 30,
+  "text_attention_continuous_samples": 30,
+  "audio_vision_identical_raw_zero_pattern_samples": 29,
+  "samples_with_audio_or_vision_raw_zero_inside_effective": 27,
+  "samples_with_audio_and_vision_raw_zero_inside_effective": 27,
+  "internal_raw_zero_positions": {
+    "text": 0,
+    "audio": 131,
+    "vision": 135
+  },
+  "synthetic_missing_positions": 0,
+  "note": "原始零值仅为观察结果，未标注为人为缺失；附件3统计不参与训练、选择或阈值调整。"
+}

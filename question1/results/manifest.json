@@ -1,0 +1,902 @@
+[
+  {
+    "id": "-3g5yACwYnA$_$13",
+    "video_id": "-3g5yACwYnA",
+    "clip_id": "13",
+    "source_video": "-3g5yACwYnA/13.mp4",
+    "raw_text": "They've been able to find solutions or at least bring some answers to the table.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-3g5yACwYnA$_$3",
+    "video_id": "-3g5yACwYnA",
+    "clip_id": "3",
+    "source_video": "-3g5yACwYnA/3.mp4",
+    "raw_text": "We're a huge user of adhesives for our operation, called flocking, and we don't have the technical inside compounding or the technical expertise to do these types of things.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-3g5yACwYnA$_$2",
+    "video_id": "-3g5yACwYnA",
+    "clip_id": "2",
+    "source_video": "-3g5yACwYnA/2.mp4",
+    "raw_text": "Key Polymer brings a technical aspect to our operation that we don't have internally.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-3g5yACwYnA$_$9",
+    "video_id": "-3g5yACwYnA",
+    "clip_id": "9",
+    "source_video": "-3g5yACwYnA/9.mp4",
+    "raw_text": "We have many new opportunities through the way things have changed through the years, looking for new niche high-end, value-added products.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-3nNcZdcdvU$_$5",
+    "video_id": "-3nNcZdcdvU",
+    "clip_id": "5",
+    "source_video": "-3nNcZdcdvU/5.mp4",
+    "raw_text": "Noncompliance can result in legal liability to you and to the school district in which you are employed.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$2",
+    "video_id": "-HwX2H8Z4hY",
+    "clip_id": "2",
+    "source_video": "-HwX2H8Z4hY/2.mp4",
+    "raw_text": "” [President Ronald Reagan:] \"Look at the record",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$5",
+    "video_id": "-HwX2H8Z4hY",
+    "clip_id": "5",
+    "source_video": "-HwX2H8Z4hY/5.mp4",
+    "raw_text": "\" President Ronald Reagan blamed the professional bureaucracy of education",
+    "label": -1.0,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$6",
+    "video_id": "-HwX2H8Z4hY",
+    "clip_id": "6",
+    "source_video": "-HwX2H8Z4hY/6.mp4",
+    "raw_text": "And in part, Al Shanker did too",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$9",
+    "video_id": "-HwX2H8Z4hY",
+    "clip_id": "9",
+    "source_video": "-HwX2H8Z4hY/9.mp4",
+    "raw_text": "It is a word which the administrator uses when he turns around anything which he doesn't like that the teacher is doing",
+    "label": -0.3333333432674408,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-NFrJFQijFE$_$1",
+    "video_id": "-NFrJFQijFE",
+    "clip_id": "1",
+    "source_video": "-NFrJFQijFE/1.mp4",
+    "raw_text": "Structural mounts inside have to be properly stress analyzed so we make sure all that happens",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-NFrJFQijFE$_$2",
+    "video_id": "-NFrJFQijFE",
+    "clip_id": "2",
+    "source_video": "-NFrJFQijFE/2.mp4",
+    "raw_text": "So we coordinate with all the proper technical fields to get ready for the instrument to arrive here",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-THoVjtIkeU$_$12",
+    "video_id": "-THoVjtIkeU",
+    "clip_id": "12",
+    "source_video": "-THoVjtIkeU/12.mp4",
+    "raw_text": "What ever we turn our attention to is what grows and so if we believe that anything is possible, if we believe that social justice can be achieved and if we believe in youth, they will believe in themselves.",
+    "label": 2.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-THoVjtIkeU$_$2",
+    "video_id": "-THoVjtIkeU",
+    "clip_id": "2",
+    "source_video": "-THoVjtIkeU/2.mp4",
+    "raw_text": "I think social justice is extremely important for young people.",
+    "label": 1.3333333730697632,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-THoVjtIkeU$_$6",
+    "video_id": "-THoVjtIkeU",
+    "clip_id": "6",
+    "source_video": "-THoVjtIkeU/6.mp4",
+    "raw_text": "You know that I think listening to young people, taking in what they have to say because what we have seen all around the world is the power of youth.",
+    "label": 2.6666667461395264,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-UuX1xuaiiE$_$1",
+    "video_id": "-UuX1xuaiiE",
+    "clip_id": "1",
+    "source_video": "-UuX1xuaiiE/1.mp4",
+    "raw_text": "^And all of them are really being able to explore ^these different areas in depth ^in a way that really wasn't available ^before the center was here",
+    "label": 1.6666666269302368,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-UuX1xuaiiE$_$0",
+    "video_id": "-UuX1xuaiiE",
+    "clip_id": "0",
+    "source_video": "-UuX1xuaiiE/0.mp4",
+    "raw_text": "^it's amazing to see their enthusiasm and their passion",
+    "label": 2.6666667461395264,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-UuX1xuaiiE$_$3",
+    "video_id": "-UuX1xuaiiE",
+    "clip_id": "3",
+    "source_video": "-UuX1xuaiiE/3.mp4",
+    "raw_text": "My goal is to become a human rights lawyer",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-UuX1xuaiiE$_$6",
+    "video_id": "-UuX1xuaiiE",
+    "clip_id": "6",
+    "source_video": "-UuX1xuaiiE/6.mp4",
+    "raw_text": "I ended up going to work for the US government as an intelligence analyst, specializing in war crimes and human rights issues",
+    "label": -0.3333333432674408,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-a55Q6RWvTA$_$3",
+    "video_id": "-a55Q6RWvTA",
+    "clip_id": "3",
+    "source_video": "-a55Q6RWvTA/3.mp4",
+    "raw_text": "And if you clip coupons, if you don't go out for dinner and movies and things of that nature and try to take up things in life that, well, they always say, \"the best things in life are free\". Reading a book, going for a nice walk, and, of course, combining exercise and various things of that nature where you're not spending money per se.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-aNfi7CP8vM$_$7",
+    "video_id": "-aNfi7CP8vM",
+    "clip_id": "7",
+    "source_video": "-aNfi7CP8vM/7.mp4",
+    "raw_text": "Maybe they have no political party affiliation, they're not interested in politics, they could care less about politics.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-aqamKhZ1Ec$_$0",
+    "video_id": "-aqamKhZ1Ec",
+    "clip_id": "0",
+    "source_video": "-aqamKhZ1Ec/0.mp4",
+    "raw_text": "In 2008, there were very serious tribal warfare in Kenya following a disputed election.",
+    "label": -2.0,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-dxfTGcXJoc$_$1",
+    "video_id": "-dxfTGcXJoc",
+    "clip_id": "1",
+    "source_video": "-dxfTGcXJoc/1.mp4",
+    "raw_text": "For the 10th straight year, some of Kentucky’s best and most innovative biotech companies and technologies were on display at the annual BIO International Convention, which I and other state officials attended this week in Chicago.",
+    "label": 1.6666666269302368,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-dxfTGcXJoc$_$0",
+    "video_id": "-dxfTGcXJoc",
+    "clip_id": "0",
+    "source_video": "-dxfTGcXJoc/0.mp4",
+    "raw_text": "This is Governor Steve Beshear ... About Kentucky Our state is home to more than 1,500 bioscience and lifescience companies and more than 100,000 people who work for these firms, in areas from nutrigenomics and pharmaceuticals to nanotechnology and medical devices.",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-dxfTGcXJoc$_$2",
+    "video_id": "-dxfTGcXJoc",
+    "clip_id": "2",
+    "source_video": "-dxfTGcXJoc/2.mp4",
+    "raw_text": "An estimated 20,000 biotech scientists, executives and industry experts from more than 50 nations were at the BIO conference to learn about the latest scientific advances, and to exchange ideas and establish business relationships.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-dxfTGcXJoc$_$6",
+    "video_id": "-dxfTGcXJoc",
+    "clip_id": "6",
+    "source_video": "-dxfTGcXJoc/6.mp4",
+    "raw_text": "Kentucky’s participation at the annual BIO International Convention is the primary means by which our high-tech companies and institutions can reach out to the global scientific community.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$26",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "26",
+    "source_video": "-egA8-b7-3M/26.mp4",
+    "raw_text": "We're updating it all the time and looking forward to your comments on our videos.",
+    "label": 1.6666666269302368,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$17",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "17",
+    "source_video": "-egA8-b7-3M/17.mp4",
+    "raw_text": "As you have more experience, you have more times exhibiting, you get to know more people.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$18",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "18",
+    "source_video": "-egA8-b7-3M/18.mp4",
+    "raw_text": "It becomes easier at each one of these conferences to connect with people that you've met or that you're doing business with.",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$16",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "16",
+    "source_video": "-egA8-b7-3M/16.mp4",
+    "raw_text": "Third, another big benefit of exhibiting is connecting with existing clients.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$13",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "13",
+    "source_video": "-egA8-b7-3M/13.mp4",
+    "raw_text": "What are you doing that's different?\" They always want an answer.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$1",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "1",
+    "source_video": "-egA8-b7-3M/1.mp4",
+    "raw_text": "I started a successful Legal Nurse Consulting Business in 1989. I mentor nurses who want to become Legal Nurse Consultants.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$6",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "6",
+    "source_video": "-egA8-b7-3M/6.mp4",
+    "raw_text": "First exhibiting is a wonderful opportunity to network with other legal vendors.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$9",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "9",
+    "source_video": "-egA8-b7-3M/9.mp4",
+    "raw_text": "Secondly, another goal of exhibiting  is building your company image.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-egA8-b7-3M$_$20",
+    "video_id": "-egA8-b7-3M",
+    "clip_id": "20",
+    "source_video": "-egA8-b7-3M/20.mp4",
+    "raw_text": "Now you've got a face that you can connect with a voice, and that makes you closer to that client.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-iRBcNs9oI8$_$3",
+    "video_id": "-iRBcNs9oI8",
+    "clip_id": "3",
+    "source_video": "-iRBcNs9oI8/3.mp4",
+    "raw_text": "Well, it is the secret of power pose",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-iRBcNs9oI8$_$7",
+    "video_id": "-iRBcNs9oI8",
+    "clip_id": "7",
+    "source_video": "-iRBcNs9oI8/7.mp4",
+    "raw_text": "Well, for starters, let's look at the word \"power\"",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-iRBcNs9oI8$_$6",
+    "video_id": "-iRBcNs9oI8",
+    "clip_id": "6",
+    "source_video": "-iRBcNs9oI8/6.mp4",
+    "raw_text": "What is a power pose",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-iRBcNs9oI8$_$9",
+    "video_id": "-iRBcNs9oI8",
+    "clip_id": "9",
+    "source_video": "-iRBcNs9oI8/9.mp4",
+    "raw_text": "Power is similar to strength",
+    "label": 1.3333333730697632,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-iRBcNs9oI8$_$8",
+    "video_id": "-iRBcNs9oI8",
+    "clip_id": "8",
+    "source_video": "-iRBcNs9oI8/8.mp4",
+    "raw_text": "I've drawn this man here, and if you can tell, he has a lot of big muscles, he looks very strong",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-lzEya4AM_4$_$5",
+    "video_id": "-lzEya4AM_4",
+    "clip_id": "5",
+    "source_video": "-lzEya4AM_4/5.mp4",
+    "raw_text": "If it falls into oh any of those three categories, inducing nausea and vomiting would be your next step.",
+    "label": -0.6666666865348816,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-lzEya4AM_4$_$6",
+    "video_id": "-lzEya4AM_4",
+    "clip_id": "6",
+    "source_video": "-lzEya4AM_4/6.mp4",
+    "raw_text": "If the product or poison is some type of petroleum product or corrosive product, you would not attempt to induce vomiting and nausea, as as the product burned on the way down it could cause damage and burning on the way back up.",
+    "label": -0.3333333432674408,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$1",
+    "video_id": "-mJ2ud6oKI8",
+    "clip_id": "1",
+    "source_video": "-mJ2ud6oKI8/1.mp4",
+    "raw_text": "There are a dozen or more hands on techniques that we can do",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$2",
+    "video_id": "-mJ2ud6oKI8",
+    "clip_id": "2",
+    "source_video": "-mJ2ud6oKI8/2.mp4",
+    "raw_text": "So physical therapists and chiropractors will do joint manipulations and mobilizations",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$6",
+    "video_id": "-mJ2ud6oKI8",
+    "clip_id": "6",
+    "source_video": "-mJ2ud6oKI8/6.mp4",
+    "raw_text": "They are all very safe",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$9",
+    "video_id": "-mJ2ud6oKI8",
+    "clip_id": "9",
+    "source_video": "-mJ2ud6oKI8/9.mp4",
+    "raw_text": "It's safe and the person will feel better later on, but it's sort of like flossing your teeth for the first time",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$8",
+    "video_id": "-mJ2ud6oKI8",
+    "clip_id": "8",
+    "source_video": "-mJ2ud6oKI8/8.mp4",
+    "raw_text": "Sometimes we have to stretch that joint that is already irritated",
+    "label": -0.3333333432674408,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-mqbVkbCndg$_$0",
+    "video_id": "-mqbVkbCndg",
+    "clip_id": "0",
+    "source_video": "-mqbVkbCndg/0.mp4",
+    "raw_text": "How, at a particular moment in time—our moment in time—are they limited",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-t217m2on-s$_$2",
+    "video_id": "-t217m2on-s",
+    "clip_id": "2",
+    "source_video": "-t217m2on-s/2.mp4",
+    "raw_text": "But a good thing to do is yawning, chewing gum is effective.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-t217m2on-s$_$7",
+    "video_id": "-t217m2on-s",
+    "clip_id": "7",
+    "source_video": "-t217m2on-s/7.mp4",
+    "raw_text": "If you find that your ears consistently do this and you can't pop them often, you'll definitely need to see a physician regarding those things, it could be something more of a nasal infection or a sinus infection that he would need to deal with.",
+    "label": -0.6666666865348816,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-tANM6ETl_M$_$3",
+    "video_id": "-tANM6ETl_M",
+    "clip_id": "3",
+    "source_video": "-tANM6ETl_M/3.mp4",
+    "raw_text": "The first place is either you have a prospect, or a customer who's never done it before, or they've never tried it.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-tPCytz4rww$_$11",
+    "video_id": "-tPCytz4rww",
+    "clip_id": "11",
+    "source_video": "-tPCytz4rww/11.mp4",
+    "raw_text": "Make sure that your using comps that are not larger, no larger than twelve hundred square feet.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-tPCytz4rww$_$10",
+    "video_id": "-tPCytz4rww",
+    "clip_id": "10",
+    "source_video": "-tPCytz4rww/10.mp4",
+    "raw_text": "Say twenty percent so if you've got a thousand square foot condo.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-tPCytz4rww$_$12",
+    "video_id": "-tPCytz4rww",
+    "clip_id": "12",
+    "source_video": "-tPCytz4rww/12.mp4",
+    "raw_text": "No less than eight hundred squire feet and going to similar in, similar with bedrooms and bathrooms as well and hopefully the complexes have similar amenities.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-tPCytz4rww$_$16",
+    "video_id": "-tPCytz4rww",
+    "clip_id": "16",
+    "source_video": "-tPCytz4rww/16.mp4",
+    "raw_text": "So make sure to get a through or to do a through cleaning of the property.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-tPCytz4rww$_$18",
+    "video_id": "-tPCytz4rww",
+    "clip_id": "18",
+    "source_video": "-tPCytz4rww/18.mp4",
+    "raw_text": "Do so and as well you'll also want to remove any clutter from that you've accumulated.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-vxjVxOeScU$_$4",
+    "video_id": "-vxjVxOeScU",
+    "clip_id": "4",
+    "source_video": "-vxjVxOeScU/4.mp4",
+    "raw_text": "You're going to talk about their life, their marriage and usually how amazing it is that they've stayed together this long.",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-wMB_hJL-3o$_$7",
+    "video_id": "-wMB_hJL-3o",
+    "clip_id": "7",
+    "source_video": "-wMB_hJL-3o/7.mp4",
+    "raw_text": "So if you have a loved one who is depressed those are some of the things that you should think about doing.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-wny0OAz3g8$_$1",
+    "video_id": "-wny0OAz3g8",
+    "clip_id": "1",
+    "source_video": "-wny0OAz3g8/1.mp4",
+    "raw_text": "And because they couldn’t join unions, many Black workers couldn’t get manufacturing or trade work – which paid much better than service work",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-wny0OAz3g8$_$0",
+    "video_id": "-wny0OAz3g8",
+    "clip_id": "0",
+    "source_video": "-wny0OAz3g8/0.mp4",
+    "raw_text": "trade labor unions didn’t allow Black workers to join",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-wny0OAz3g8$_$3",
+    "video_id": "-wny0OAz3g8",
+    "clip_id": "3",
+    "source_video": "-wny0OAz3g8/3.mp4",
+    "raw_text": "Which then allowed the white workers and unions to justify their decision to not allow black workers into their union",
+    "label": -1.3333333730697632,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-wny0OAz3g8$_$2",
+    "video_id": "-wny0OAz3g8",
+    "clip_id": "2",
+    "source_video": "-wny0OAz3g8/2.mp4",
+    "raw_text": "And because they couldn’t get these jobs, Black communities had more men out of work, higher rates of poverty, and more criminal behavior",
+    "label": -0.3333333432674408,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-wny0OAz3g8$_$5",
+    "video_id": "-wny0OAz3g8",
+    "clip_id": "5",
+    "source_video": "-wny0OAz3g8/5.mp4",
+    "raw_text": "This is what’s now known as racial formation theory, a theory formalized by modern sociologists Michael Omi and Howard Winant",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-wny0OAz3g8$_$7",
+    "video_id": "-wny0OAz3g8",
+    "clip_id": "7",
+    "source_video": "-wny0OAz3g8/7.mp4",
+    "raw_text": "Omi and Winant argue that the concept of race came about as a tool to justify and maintain the economic and political power held by those of European descent",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-wny0OAz3g8$_$9",
+    "video_id": "-wny0OAz3g8",
+    "clip_id": "9",
+    "source_video": "-wny0OAz3g8/9.mp4",
+    "raw_text": "He explores why Black and White Americans tend to have such different outcomes in terms of income, education, and more",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-571d8cVauQ$_$0",
+    "video_id": "-571d8cVauQ",
+    "clip_id": "0",
+    "source_video": "-571d8cVauQ/0.mp4",
+    "raw_text": "This is Rhett Reiger, White Caspian Studios on behalf of Expert Village.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-571d8cVauQ$_$5",
+    "video_id": "-571d8cVauQ",
+    "clip_id": "5",
+    "source_video": "-571d8cVauQ/5.mp4",
+    "raw_text": "So very important to go out to the locations, walk around, talk with the owners if you can, tell them what you're doing, build a little excitement, put a little glitz on there and let everybody knows this is a very valuable spot.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-I_e4mIh0yE$_$1",
+    "video_id": "-I_e4mIh0yE",
+    "clip_id": "1",
+    "source_video": "-I_e4mIh0yE/1.mp4",
+    "raw_text": "In the United States we don't punish failure to the degree to which failure is punished in Europe.",
+    "label": -0.6666666865348816,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-I_e4mIh0yE$_$3",
+    "video_id": "-I_e4mIh0yE",
+    "clip_id": "3",
+    "source_video": "-I_e4mIh0yE/3.mp4",
+    "raw_text": "It's perceived that you have actually learned something, over the course of your carreer, and that you won't make the mistake twice.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-UacrmKiTn4$_$10",
+    "video_id": "-UacrmKiTn4",
+    "clip_id": "10",
+    "source_video": "-UacrmKiTn4/10.mp4",
+    "raw_text": "Because, if they are not in any way held accountable for reading the material they won't do it.",
+    "label": -0.6666666865348816,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-UacrmKiTn4$_$4",
+    "video_id": "-UacrmKiTn4",
+    "clip_id": "4",
+    "source_video": "-UacrmKiTn4/4.mp4",
+    "raw_text": "Just given to their own devices they are not going to read the textbook.",
+    "label": -1.3333333730697632,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-hnBHBN8p5A$_$7",
+    "video_id": "-hnBHBN8p5A",
+    "clip_id": "7",
+    "source_video": "-hnBHBN8p5A/7.mp4",
+    "raw_text": "Picture this, before we actually start hacking, we’re in a room formal setting",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-hnBHBN8p5A$_$6",
+    "video_id": "-hnBHBN8p5A",
+    "clip_id": "6",
+    "source_video": "-hnBHBN8p5A/6.mp4",
+    "raw_text": "Discussion, how to discuss ideas and opinions more effectively than a native speaker",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-qDkUB0GgYY$_$6",
+    "video_id": "-qDkUB0GgYY",
+    "clip_id": "6",
+    "source_video": "-qDkUB0GgYY/6.mp4",
+    "raw_text": "We always love to hear what you say, and like and share this video as well.",
+    "label": 1.3333333730697632,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-uywlfIYOS8$_$4",
+    "video_id": "-uywlfIYOS8",
+    "clip_id": "4",
+    "source_video": "-uywlfIYOS8/4.mp4",
+    "raw_text": "And then from a brand point of view, we need to make sure we're driving the relevant insight.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-6rXp3zJ3kc$_$8",
+    "video_id": "-6rXp3zJ3kc",
+    "clip_id": "8",
+    "source_video": "-6rXp3zJ3kc/8.mp4",
+    "raw_text": "Many people are not until they get to be a older age and they realize that gosh they wasted a lot of time and money in placing bets on stock that's ultimately lost value.",
+    "label": -1.0,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-9y-fZ3swSY$_$0",
+    "video_id": "-9y-fZ3swSY",
+    "clip_id": "0",
+    "source_video": "-9y-fZ3swSY/0.mp4",
+    "raw_text": "is, you can say, hey I really like baby skin, they are so soft, they don’t have any hair on their face",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-9y-fZ3swSY$_$4",
+    "video_id": "-9y-fZ3swSY",
+    "clip_id": "4",
+    "source_video": "-9y-fZ3swSY/4.mp4",
+    "raw_text": "I’ve seen this in US or in the US",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-9y-fZ3swSY$_$8",
+    "video_id": "-9y-fZ3swSY",
+    "clip_id": "8",
+    "source_video": "-9y-fZ3swSY/8.mp4",
+    "raw_text": "That’s a more decent and more polite way to call a lady",
+    "label": 1.6666666269302368,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-AUZQgSxyPQ$_$2",
+    "video_id": "-AUZQgSxyPQ",
+    "clip_id": "2",
+    "source_video": "-AUZQgSxyPQ/2.mp4",
+    "raw_text": "The perfect soul mate to the Clarisonic Spot Therapy Brush, this gentle, Ph balanced and hydrating exfoliant containing jojoba and acai fruit oils and bamboo and prickly bear extracts deliver intense healing, while smooth granules buff away dead, dry skin cells.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-HeZS2-Prhc$_$2",
+    "video_id": "-HeZS2-Prhc",
+    "clip_id": "2",
+    "source_video": "-HeZS2-Prhc/2.mp4",
+    "raw_text": "The August jobs report is out and it was seen overall as solid but not great.",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-MeTTeMJBNc$_$0",
+    "video_id": "-MeTTeMJBNc",
+    "clip_id": "0",
+    "source_video": "-MeTTeMJBNc/0.mp4",
+    "raw_text": "Okay, what happens at this point after we've taken this brief walk down memory lane, is the presentation of the gift.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-MeTTeMJBNc$_$13",
+    "video_id": "-MeTTeMJBNc",
+    "clip_id": "13",
+    "source_video": "-MeTTeMJBNc/13.mp4",
+    "raw_text": "It just needs to be a simple statement, and then you present the gift.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-MeTTeMJBNc$_$7",
+    "video_id": "-MeTTeMJBNc",
+    "clip_id": "7",
+    "source_video": "-MeTTeMJBNc/7.mp4",
+    "raw_text": "Maybe you could find a picture of the couple from their wedding or sometime in their life, or maybe even a current picture and have it put in a beautiful frame.",
+    "label": 1.3333333730697632,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-RfYyzHpjk4$_$11",
+    "video_id": "-RfYyzHpjk4",
+    "clip_id": "11",
+    "source_video": "-RfYyzHpjk4/11.mp4",
+    "raw_text": "So get your friends lined up, get your business colleagues lined up and have a good time.",
+    "label": 2.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-RfYyzHpjk4$_$8",
+    "video_id": "-RfYyzHpjk4",
+    "clip_id": "8",
+    "source_video": "-RfYyzHpjk4/8.mp4",
+    "raw_text": "It's pretty, pretty easy to do but you got to set up those numbers ahead of time.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-RfYyzHpjk4$_$2",
+    "video_id": "-RfYyzHpjk4",
+    "clip_id": "2",
+    "source_video": "-RfYyzHpjk4/2.mp4",
+    "raw_text": "You can make a conference call but it takes quite a bit of planning, well not a lot of planning it's pretty easy to do.",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-UUCSKoHeMA$_$0",
+    "video_id": "-UUCSKoHeMA",
+    "clip_id": "0",
+    "source_video": "-UUCSKoHeMA/0.mp4",
+    "raw_text": "I mentioned a word in the last clip called 'monotone', and I want to talk about that briefly.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-ri04Z7vwnc$_$0",
+    "video_id": "-ri04Z7vwnc",
+    "clip_id": "0",
+    "source_video": "-ri04Z7vwnc/0.mp4",
+    "raw_text": "going to get married or are already married",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-ri04Z7vwnc$_$2",
+    "video_id": "-ri04Z7vwnc",
+    "clip_id": "2",
+    "source_video": "-ri04Z7vwnc/2.mp4",
+    "raw_text": "most people think it'll sort itself out, \"we'll discuss it later,\" it's not something too important",
+    "label": -0.3333333432674408,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-ri04Z7vwnc$_$5",
+    "video_id": "-ri04Z7vwnc",
+    "clip_id": "5",
+    "source_video": "-ri04Z7vwnc/5.mp4",
+    "raw_text": "\" So I think it's important to discuss finances",
+    "label": 0.3333333432674408,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$1",
+    "video_id": "-s9qJ7ATP7w",
+    "clip_id": "1",
+    "source_video": "-s9qJ7ATP7w/1.mp4",
+    "raw_text": "But the hardest thing in life to learn, is to lose",
+    "label": 0.6666666865348816,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$0",
+    "video_id": "-s9qJ7ATP7w",
+    "clip_id": "0",
+    "source_video": "-s9qJ7ATP7w/0.mp4",
+    "raw_text": "they have doubt, they have fear, they lose in a Ferrari race, or they lose in a race, and then they just give up",
+    "label": -0.3333333432674408,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$5",
+    "video_id": "-s9qJ7ATP7w",
+    "clip_id": "5",
+    "source_video": "-s9qJ7ATP7w/5.mp4",
+    "raw_text": "I have been beat up and put down and everything that can go wrong, has gone wrong for me",
+    "label": -2.0,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$4",
+    "video_id": "-s9qJ7ATP7w",
+    "clip_id": "4",
+    "source_video": "-s9qJ7ATP7w/4.mp4",
+    "raw_text": "I have lost at everything you can imagine, seriously",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$7",
+    "video_id": "-s9qJ7ATP7w",
+    "clip_id": "7",
+    "source_video": "-s9qJ7ATP7w/7.mp4",
+    "raw_text": "I used to work for Warren Avis, the guy who started Avis Rent a Car, and he said to me one day, \"Robert, \"what's the purpose of business",
+    "label": 1.0,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$6",
+    "video_id": "-s9qJ7ATP7w",
+    "clip_id": "6",
+    "source_video": "-s9qJ7ATP7w/6.mp4",
+    "raw_text": "But I just kept going",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$8",
+    "video_id": "-s9qJ7ATP7w",
+    "clip_id": "8",
+    "source_video": "-s9qJ7ATP7w/8.mp4",
+    "raw_text": "\" And I said, \"Oh, make a profit, and all these other things",
+    "label": 1.3333333730697632,
+    "annotation": "Positive"
+  },
+  {
+    "id": "-yRb-Jum7EQ$_$1",
+    "video_id": "-yRb-Jum7EQ",
+    "clip_id": "1",
+    "source_video": "-yRb-Jum7EQ/1.mp4",
+    "raw_text": "it comes with the assistance and agitation of states and regimes, Yesterday Iran announced that it will finance the families of the terrorists and murderers this shows that Iran, even after the nuclear agreement, is continuing to aid terrorism, including Palestinian terrorism, Hezbollah terrorism and its assistance to Hamas.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  },
+  {
+    "id": "-yRb-Jum7EQ$_$5",
+    "video_id": "-yRb-Jum7EQ",
+    "clip_id": "5",
+    "source_video": "-yRb-Jum7EQ/5.mp4",
+    "raw_text": "Yesterday Eliav Gelman lost his life in another terrorist attack, not by the students of terrorism, but by those who teach terrorism, a Palestinian teacher.",
+    "label": -0.6666666865348816,
+    "annotation": "Negative"
+  },
+  {
+    "id": "-yRb-Jum7EQ$_$6",
+    "video_id": "-yRb-Jum7EQ",
+    "clip_id": "6",
+    "source_video": "-yRb-Jum7EQ/6.mp4",
+    "raw_text": "Therefore, the world needs to stand with Israel against this incitement, which is the number one cause of terrorism.",
+    "label": 0.0,
+    "annotation": "Neutral"
+  }
+]

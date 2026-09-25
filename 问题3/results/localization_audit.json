@@ -1,0 +1,17 @@
+{
+  "samples": 20,
+  "tokenizer_exact_count": 20,
+  "ctc_success_count": 20,
+  "quality_warning_count": 3,
+  "low_ctc_confidence_count": 1,
+  "low_transcript_similarity_count": 3,
+  "frame_extracted_count": 20,
+  "visual_evidence_frame_count": 19,
+  "visual_evidence_unavailable_count": 1,
+  "truncated_text_count": 2,
+  "manual_time_verification_completed": false,
+  "speech_model_source": "facebook/wav2vec2-base-960h",
+  "speech_model_revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+  "tokenizer_source": "distilbert/distilbert-base-uncased",
+  "time_mapping_rule": "exact tokenizer offsets to raw_text; independent CTC forced alignment of transcript to video audio; feature-position to word-time correspondence is inferred from aligned_50, not a supplied timestamp"
+}

@@ -1,0 +1,1018 @@
+{
+  "id": "-UuX1xuaiiE$_$1",
+  "video_id": "-UuX1xuaiiE",
+  "clip_id": "1",
+  "source_video": "-UuX1xuaiiE/1.mp4",
+  "raw_text": "^And all of them are really being able to explore ^these different areas in depth ^in a way that really wasn't available ^before the center was here",
+  "label": 1.6666666269302368,
+  "annotation": "Positive",
+  "duration_seconds": 10.35,
+  "container_origin_seconds": 0.0,
+  "video_fps": 30.0,
+  "video_width": 1280,
+  "video_height": 720,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 10.2675,
+  "source_sha256": "d5bbda38fcec15817d2b87bab5dcc559d6d425f7d28a82e6c32d13f14b48650c",
+  "words": [
+    "And",
+    "all",
+    "of",
+    "them",
+    "are",
+    "really",
+    "being",
+    "able",
+    "to",
+    "explore",
+    "these",
+    "different",
+    "areas",
+    "in",
+    "depth",
+    "in",
+    "a",
+    "way",
+    "that",
+    "really",
+    "wasn't",
+    "available",
+    "before",
+    "the",
+    "center",
+    "was",
+    "here"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1
+      ],
+      "subtoken_ids": [
+        1998
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        2
+      ],
+      "subtoken_ids": [
+        2035
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        3
+      ],
+      "subtoken_ids": [
+        1997
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        2068
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5
+      ],
+      "subtoken_ids": [
+        2024
+      ]
+    },
+    {
+      "word_index": 5,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        6
+      ],
+      "subtoken_ids": [
+        2428
+      ]
+    },
+    {
+      "word_index": 6,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        7
+      ],
+      "subtoken_ids": [
+        2108
+      ]
+    },
+    {
+      "word_index": 7,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        8
+      ],
+      "subtoken_ids": [
+        2583
+      ]
+    },
+    {
+      "word_index": 8,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        9
+      ],
+      "subtoken_ids": [
+        2000
+      ]
+    },
+    {
+      "word_index": 9,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        10
+      ],
+      "subtoken_ids": [
+        8849
+      ]
+    },
+    {
+      "word_index": 10,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        11
+      ],
+      "subtoken_ids": [
+        2122
+      ]
+    },
+    {
+      "word_index": 11,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        12
+      ],
+      "subtoken_ids": [
+        2367
+      ]
+    },
+    {
+      "word_index": 12,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        13
+      ],
+      "subtoken_ids": [
+        2752
+      ]
+    },
+    {
+      "word_index": 13,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        14
+      ],
+      "subtoken_ids": [
+        1999
+      ]
+    },
+    {
+      "word_index": 14,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        15
+      ],
+      "subtoken_ids": [
+        5995
+      ]
+    },
+    {
+      "word_index": 15,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        16
+      ],
+      "subtoken_ids": [
+        1999
+      ]
+    },
+    {
+      "word_index": 16,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        17
+      ],
+      "subtoken_ids": [
+        1037
+      ]
+    },
+    {
+      "word_index": 17,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        18
+      ],
+      "subtoken_ids": [
+        2126
+      ]
+    },
+    {
+      "word_index": 18,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        19
+      ],
+      "subtoken_ids": [
+        2008
+      ]
+    },
+    {
+      "word_index": 19,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        20
+      ],
+      "subtoken_ids": [
+        2428
+      ]
+    },
+    {
+      "word_index": 20,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        21,
+        22,
+        23
+      ],
+      "subtoken_ids": [
+        2347,
+        1005,
+        1056
+      ]
+    },
+    {
+      "word_index": 21,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        24
+      ],
+      "subtoken_ids": [
+        2800
+      ]
+    },
+    {
+      "word_index": 22,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        25
+      ],
+      "subtoken_ids": [
+        2077
+      ]
+    },
+    {
+      "word_index": 23,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        26
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 24,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        27
+      ],
+      "subtoken_ids": [
+        2415
+      ]
+    },
+    {
+      "word_index": 25,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        28
+      ],
+      "subtoken_ids": [
+        2001
+      ]
+    },
+    {
+      "word_index": 26,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        29
+      ],
+      "subtoken_ids": [
+        2182
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "AND",
+      "ALL",
+      "OF",
+      "THEM",
+      "ARE",
+      "REALLY",
+      "BEING",
+      "ABLE",
+      "TO",
+      "EXPLORE",
+      "THESE",
+      "DIFFERENT",
+      "AREAS",
+      "IN",
+      "DEPTH",
+      "IN",
+      "A",
+      "WAY",
+      "THAT",
+      "REALLY",
+      "WASN'T",
+      "AVAILABLE",
+      "BEFORE",
+      "THE",
+      "CENTER",
+      "WAS",
+      "HERE"
+    ],
+    "greedy_transcript_for_qc_only": "AND ALL OF THEM ARE REALLY BEING ABLE TO EXPLORE THESE DIFFERENT AREAS IN IN DEPTH IN A WAY THAT REALLY WASN'T AVAILABLE BEFORE THE CENTRE WAS HERE THE WORK OF",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    [
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164
+    ],
+    [
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186
+    ],
+    [
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272
+    ],
+    [
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286
+    ],
+    [
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354
+    ],
+    [
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420
+    ],
+    [
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480
+    ],
+    [
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518
+    ],
+    [
+      583,
+      584,
+      585,
+      586,
+      587,
+      588
+    ],
+    [
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634
+    ],
+    [
+      655,
+      656,
+      657,
+      658,
+      659,
+      660
+    ],
+    [
+      667,
+      668,
+      669,
+      670
+    ],
+    [
+      675,
+      676,
+      677,
+      678,
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688,
+      689,
+      690
+    ],
+    [
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707,
+      708,
+      709,
+      710,
+      711,
+      712,
+      713,
+      714,
+      715,
+      716
+    ],
+    [
+      731,
+      732,
+      733,
+      734,
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743,
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750,
+      751,
+      752
+    ],
+    [
+      755,
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764,
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780
+    ],
+    [
+      783,
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      793,
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801,
+      802,
+      803,
+      804,
+      805,
+      806,
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814,
+      815,
+      816,
+      817,
+      818,
+      819,
+      820,
+      821,
+      822,
+      823,
+      824,
+      825,
+      826,
+      827,
+      828
+    ],
+    [
+      835,
+      836,
+      837,
+      838,
+      839,
+      840,
+      841,
+      842,
+      843,
+      844,
+      845,
+      846,
+      847,
+      848,
+      849,
+      850,
+      851,
+      852,
+      853,
+      854,
+      855,
+      856,
+      857,
+      858,
+      859,
+      860,
+      861,
+      862,
+      863,
+      864,
+      865,
+      866
+    ],
+    [
+      873,
+      874,
+      875,
+      876,
+      877,
+      878,
+      879,
+      880
+    ],
+    [
+      885,
+      886,
+      887,
+      888,
+      889,
+      890,
+      891,
+      892,
+      893,
+      894,
+      895,
+      896,
+      897,
+      898,
+      899,
+      900,
+      901,
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      908,
+      909,
+      910,
+      911,
+      912,
+      913,
+      914
+    ],
+    [
+      923,
+      924,
+      925,
+      926,
+      927,
+      928,
+      929,
+      930,
+      931,
+      932,
+      933,
+      934
+    ],
+    [
+      991,
+      992,
+      993,
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000,
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009,
+      1010,
+      1011,
+      1012,
+      1013,
+      1014
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      99,
+      100,
+      101
+    ]
+  ],
+  "feature_file": "features/-UuX1xuaiiE$_$1.npz",
+  "feature_sha256": "e53d84e8158d1cc0062ec3850b8b9d53d28361a56bc8ada3431f2b52bd877b17",
+  "warnings": [
+    "some_words_without_valid_face"
+  ],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "review_required",
+  "processing_seconds": 4.339,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "ee75fd879cb55eb98293137a50fba27ca64ca9c539c59ecf6ecf17f1d2a01353",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

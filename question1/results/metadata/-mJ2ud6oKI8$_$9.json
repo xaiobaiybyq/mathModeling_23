@@ -1,0 +1,856 @@
+{
+  "id": "-mJ2ud6oKI8$_$9",
+  "video_id": "-mJ2ud6oKI8",
+  "clip_id": "9",
+  "source_video": "-mJ2ud6oKI8/9.mp4",
+  "raw_text": "It's safe and the person will feel better later on, but it's sort of like flossing your teeth for the first time",
+  "label": 0.0,
+  "annotation": "Neutral",
+  "duration_seconds": 7.033,
+  "container_origin_seconds": 0.0,
+  "video_fps": 29.97002997002997,
+  "video_width": 1280,
+  "video_height": 720,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 6.90875,
+  "source_sha256": "df3442f3ed8f894b507923e87e426ae9636790a4a502d00c350a215270cc3e47",
+  "words": [
+    "It's",
+    "safe",
+    "and",
+    "the",
+    "person",
+    "will",
+    "feel",
+    "better",
+    "later",
+    "on",
+    "but",
+    "it's",
+    "sort",
+    "of",
+    "like",
+    "flossing",
+    "your",
+    "teeth",
+    "for",
+    "the",
+    "first",
+    "time"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1,
+        2,
+        3
+      ],
+      "subtoken_ids": [
+        2009,
+        1005,
+        1055
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        3647
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5
+      ],
+      "subtoken_ids": [
+        1998
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        6
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        7
+      ],
+      "subtoken_ids": [
+        2711
+      ]
+    },
+    {
+      "word_index": 5,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        8
+      ],
+      "subtoken_ids": [
+        2097
+      ]
+    },
+    {
+      "word_index": 6,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        9
+      ],
+      "subtoken_ids": [
+        2514
+      ]
+    },
+    {
+      "word_index": 7,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        10
+      ],
+      "subtoken_ids": [
+        2488
+      ]
+    },
+    {
+      "word_index": 8,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        11
+      ],
+      "subtoken_ids": [
+        2101
+      ]
+    },
+    {
+      "word_index": 9,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        12
+      ],
+      "subtoken_ids": [
+        2006
+      ]
+    },
+    {
+      "word_index": 10,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        13
+      ],
+      "subtoken_ids": [
+        2021
+      ]
+    },
+    {
+      "word_index": 11,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        14,
+        15,
+        16
+      ],
+      "subtoken_ids": [
+        2009,
+        1005,
+        1055
+      ]
+    },
+    {
+      "word_index": 12,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        17
+      ],
+      "subtoken_ids": [
+        4066
+      ]
+    },
+    {
+      "word_index": 13,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        18
+      ],
+      "subtoken_ids": [
+        1997
+      ]
+    },
+    {
+      "word_index": 14,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        19
+      ],
+      "subtoken_ids": [
+        2066
+      ]
+    },
+    {
+      "word_index": 15,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        20,
+        21,
+        22
+      ],
+      "subtoken_ids": [
+        13109,
+        15094,
+        2075
+      ]
+    },
+    {
+      "word_index": 16,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        23
+      ],
+      "subtoken_ids": [
+        2115
+      ]
+    },
+    {
+      "word_index": 17,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        24
+      ],
+      "subtoken_ids": [
+        4091
+      ]
+    },
+    {
+      "word_index": 18,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        25
+      ],
+      "subtoken_ids": [
+        2005
+      ]
+    },
+    {
+      "word_index": 19,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        26
+      ],
+      "subtoken_ids": [
+        1996
+      ]
+    },
+    {
+      "word_index": 20,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        27
+      ],
+      "subtoken_ids": [
+        2034
+      ]
+    },
+    {
+      "word_index": 21,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        28
+      ],
+      "subtoken_ids": [
+        2051
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "IT'S",
+      "SAFE",
+      "AND",
+      "THE",
+      "PERSON",
+      "WILL",
+      "FEEL",
+      "BETTER",
+      "LATER",
+      "ON",
+      "BUT",
+      "IT'S",
+      "SORT",
+      "OF",
+      "LIKE",
+      "FLOSSING",
+      "YOUR",
+      "TEETH",
+      "FOR",
+      "THE",
+      "FIRST",
+      "TIME"
+    ],
+    "greedy_transcript_for_qc_only": "WATION TO FIND OUT BECAUSE YOU MIGHT HAVE HIPPOTER A THRITUS BUT THAT YOU COULD ALSO HAVE OTHER A YOU KNOW DISFUNCTIONS ROUND YOUR",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158
+    ],
+    [
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186
+    ],
+    [
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226
+    ],
+    [
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248
+    ],
+    [
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274
+    ],
+    [
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302
+    ],
+    [
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326
+    ],
+    [
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340
+    ],
+    [
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356
+    ],
+    [
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384
+    ],
+    [
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428
+    ],
+    [
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598
+    ],
+    [
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624
+    ],
+    [
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636
+    ],
+    [
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650
+    ],
+    [
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674
+    ],
+    [
+      679,
+      680,
+      681,
+      682,
+      683,
+      684,
+      685,
+      686,
+      687,
+      688
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      11,
+      12,
+      13,
+      14
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      17,
+      18,
+      19
+    ],
+    [
+      20,
+      21,
+      22,
+      23
+    ],
+    [
+      23,
+      24,
+      25
+    ],
+    [
+      27
+    ],
+    [
+      29,
+      30
+    ],
+    [
+      31,
+      32,
+      33
+    ],
+    [
+      33,
+      34
+    ],
+    [
+      34,
+      35,
+      36
+    ],
+    [
+      37,
+      38
+    ],
+    [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    [
+      59,
+      60
+    ],
+    [
+      61,
+      62
+    ],
+    [
+      63,
+      64
+    ],
+    [
+      64,
+      65
+    ],
+    [
+      66,
+      67
+    ],
+    [
+      68,
+      69
+    ]
+  ],
+  "feature_file": "features/-mJ2ud6oKI8$_$9.npz",
+  "feature_sha256": "0f472d2617ceed3140bdcda548ba14febd011522028a6ddd4603f23dca6abd84",
+  "warnings": [
+    "low_alignment_confidence"
+  ],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "review_required",
+  "processing_seconds": 3.969,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "f56b500ee74124cd0bd5c5f2693424ec97762fbd5b4520dc82abb2450719c4ab",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

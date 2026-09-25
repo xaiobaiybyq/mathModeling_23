@@ -1,0 +1,327 @@
+{
+  "id": "-HwX2H8Z4hY$_$6",
+  "video_id": "-HwX2H8Z4hY",
+  "clip_id": "6",
+  "source_video": "-HwX2H8Z4hY/6.mp4",
+  "raw_text": "And in part, Al Shanker did too",
+  "label": 0.0,
+  "annotation": "Neutral",
+  "duration_seconds": 3.3580625,
+  "container_origin_seconds": 0.0,
+  "video_fps": 30.0,
+  "video_width": 1280,
+  "video_height": 720,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 3.256,
+  "source_sha256": "696576dcbd0dc42cb678fa40d8a0f0f419a3072bfa7662d653756ab29bba4c46",
+  "words": [
+    "And",
+    "in",
+    "part",
+    "Al",
+    "Shanker",
+    "did",
+    "too"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1
+      ],
+      "subtoken_ids": [
+        1998
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        2
+      ],
+      "subtoken_ids": [
+        1999
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        3
+      ],
+      "subtoken_ids": [
+        2112
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        2632
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5,
+        6
+      ],
+      "subtoken_ids": [
+        17137,
+        5484
+      ]
+    },
+    {
+      "word_index": 5,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        7
+      ],
+      "subtoken_ids": [
+        2106
+      ]
+    },
+    {
+      "word_index": 6,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        8
+      ],
+      "subtoken_ids": [
+        2205
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "AND",
+      "IN",
+      "PART",
+      "AL",
+      "SHANKER",
+      "DID",
+      "TOO"
+    ],
+    "greedy_transcript_for_qc_only": "AND IN PART ALSHENKAR DID TOO",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    [
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    [
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210
+    ],
+    [
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240
+    ],
+    [
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8,
+      9,
+      10,
+      11
+    ],
+    [
+      15,
+      16
+    ],
+    [
+      17,
+      18,
+      19,
+      20
+    ],
+    [],
+    []
+  ],
+  "feature_file": "features/-HwX2H8Z4hY$_$6.npz",
+  "feature_sha256": "6179af9301a5a2c023272bda5ff07b8a9f75b7246f3aaf81d631d2fa5ea5fcf7",
+  "warnings": [
+    "some_words_without_valid_face"
+  ],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "review_required",
+  "processing_seconds": 2.075,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "94590f391f0636baf3ae0fbeed2058937a81f50e775f562403d0313cf772df96",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

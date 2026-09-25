@@ -1,4 +1,0 @@
-﻿variant,best_epoch,selection_score,loaded_pretrained_tensors,parameters
-tiny_frozen,4,0.28953390543943014,39,4492682
-tiny_finetune,5,0.3117317950270181,39,4492682
-tiny_weighted,5,0.3347915932806603,39,4492682

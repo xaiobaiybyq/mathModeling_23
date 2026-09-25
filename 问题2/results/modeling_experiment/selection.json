@@ -1,0 +1,28 @@
+{
+  "accepted": true,
+  "scores": {
+    "current": 0.35337183440181885,
+    "two_seed": 0.36591207989431346
+  },
+  "current_complete": {
+    "accuracy": 0.6002747252747253,
+    "macro_f1": 0.5671591501018115,
+    "mae": 0.6778661608695984,
+    "pearson": 0.5439490862040881
+  },
+  "two_seed_complete": {
+    "accuracy": 0.6043956043956044,
+    "macro_f1": 0.5763138932643797,
+    "mae": 0.6510674357414246,
+    "pearson": 0.5460603247092399
+  },
+  "rule": "mean of complete and five-scenario panel [(Accuracy+macroF1)/2-MAE/3]; complete Accuracy and macroF1 must not decrease",
+  "new_seed": 20260924,
+  "ordinary_weight": 0.15,
+  "ensemble_bert_weights": [
+    0.5,
+    0.5
+  ],
+  "test_used": false,
+  "target_used_for_selection": false
+}

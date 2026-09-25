@@ -1,0 +1,8 @@
+{
+  "sample_count": 728,
+  "model": "locked two-BERT plus ordinary 0.15 ensemble, complete input",
+  "accuracy": 0.6043956043956044,
+  "macro_f1": 0.5763138932643797,
+  "mae": 0.6510674357414246,
+  "pearson": 0.5460603247092399
+}

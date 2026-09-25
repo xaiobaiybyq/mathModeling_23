@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+openpyxl
+matplotlib==3.9.2
+pillow==11.1.0
+imageio-ffmpeg
+av==14.2.0
+opensmile
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+transformers<5
+torch==2.8.0

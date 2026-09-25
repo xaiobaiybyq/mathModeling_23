@@ -1,0 +1,4 @@
+# 复用 ../.problem2-venv 中的 numpy==1.24.4、torch==2.3.1+cpu。
+transformers==4.40.2
+av==12.3.0
+safetensors==0.5.3

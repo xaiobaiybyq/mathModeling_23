@@ -1,0 +1,46 @@
+{
+  "source": "aligned_50.pkl",
+  "split_counts": {
+    "train": {
+      "samples": 3395,
+      "class_counts": {
+        "0": 967,
+        "1": 758,
+        "2": 1670
+      },
+      "valid_length_min": 3,
+      "valid_length_median": 22.0,
+      "valid_length_max": 50,
+      "valid_positions": 83672,
+      "within_valid_zero_vectors": {
+        "text": 0,
+        "audio": 6855,
+        "vision": 11039
+      },
+      "padding_positions": 86078
+    },
+    "valid": {
+      "samples": 728,
+      "class_counts": {
+        "0": 206,
+        "1": 184,
+        "2": 338
+      },
+      "valid_length_min": 3,
+      "valid_length_median": 23.5,
+      "valid_length_max": 50,
+      "valid_positions": 18628,
+      "within_valid_zero_vectors": {
+        "text": 0,
+        "audio": 1502,
+        "vision": 2436
+      },
+      "padding_positions": 17772
+    }
+  },
+  "label_mapping": {
+    "0": "Negative (<0)",
+    "1": "Neutral (=0)",
+    "2": "Positive (>0)"
+  }
+}

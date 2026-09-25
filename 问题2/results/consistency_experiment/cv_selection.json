@@ -1,0 +1,9 @@
+{
+  "accepted": false,
+  "baseline_score": 0.33567963309689974,
+  "candidate_score": 0.328025684657759,
+  "min_gain": 0.005,
+  "complete_accuracy_tolerance": 0.01,
+  "complete_macro_f1_tolerance": 0.01,
+  "text_middle_40_macro_f1_tolerance": 0.01
+}

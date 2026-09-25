@@ -1,0 +1,22 @@
+{
+  "samples": 20,
+  "video_pairs": 20,
+  "input_fields": [
+    "text_bert",
+    "audio",
+    "vision"
+  ],
+  "length_min_median_max": [
+    13,
+    30.0,
+    50
+  ],
+  "continuous_text_attention": 20,
+  "raw_zero_within_effective": {
+    "text": 0,
+    "audio": 0,
+    "vision": 30
+  },
+  "artificial_missing_positions_before_explanation": 0,
+  "labels_present": false
+}

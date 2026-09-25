@@ -1,0 +1,20 @@
+{
+  "accepted": false,
+  "old_score": 0.5756448297912582,
+  "candidate_score": 0.5801777220064519,
+  "complete_current": {
+    "accuracy": 0.6043956043956044,
+    "macro_f1": 0.5763138932643797,
+    "mae": 0.6510674357414246,
+    "pearson": 0.5460603247092399
+  },
+  "complete_candidate": {
+    "accuracy": 0.6071428571428571,
+    "macro_f1": 0.5707858055545846,
+    "mae": 0.6510674357414246,
+    "pearson": 0.5460603247092399
+  },
+  "rule": "7 fixed conditions: score gain>=0.003, complete Accuracy gain>=0.005, complete F1 no drop, moderate missing F1 drop<=0.005, severe missing F1 drop<=0.01",
+  "test_used": false,
+  "target_used_for_selection": false
+}

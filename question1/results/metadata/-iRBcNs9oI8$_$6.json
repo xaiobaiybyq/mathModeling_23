@@ -1,0 +1,225 @@
+{
+  "id": "-iRBcNs9oI8$_$6",
+  "video_id": "-iRBcNs9oI8",
+  "clip_id": "6",
+  "source_video": "-iRBcNs9oI8/6.mp4",
+  "raw_text": "What is a power pose",
+  "label": 0.3333333432674408,
+  "annotation": "Positive",
+  "duration_seconds": 2.903,
+  "container_origin_seconds": 0.0,
+  "video_fps": 29.97002997002997,
+  "video_width": 1280,
+  "video_height": 720,
+  "audio_source_rate": 44100,
+  "audio_observed_seconds": 2.8204375,
+  "source_sha256": "030b0b8d8d4ae47799432ab71b66fcc881f077c5b0feef892c1f146dc0a592e3",
+  "words": [
+    "What",
+    "is",
+    "a",
+    "power",
+    "pose"
+  ],
+  "processing_fingerprint": "3f53c07640ad611398b6339c514caeb295c47791a5364fc49cdef91dacb7e7bf",
+  "subword_mapping": [
+    {
+      "word_index": 0,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        1
+      ],
+      "subtoken_ids": [
+        2054
+      ]
+    },
+    {
+      "word_index": 1,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        2
+      ],
+      "subtoken_ids": [
+        2003
+      ]
+    },
+    {
+      "word_index": 2,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        3
+      ],
+      "subtoken_ids": [
+        1037
+      ]
+    },
+    {
+      "word_index": 3,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        4
+      ],
+      "subtoken_ids": [
+        2373
+      ]
+    },
+    {
+      "word_index": 4,
+      "chunk_first_word": 0,
+      "subtoken_positions": [
+        5
+      ],
+      "subtoken_ids": [
+        13382
+      ]
+    }
+  ],
+  "alignment": {
+    "normalized_words": [
+      "WHAT",
+      "IS",
+      "A",
+      "POWER",
+      "POSE"
+    ],
+    "greedy_transcript_for_qc_only": "HELP YOU IF YOU HAVE AN ENGLISH JOB INTERVIEW",
+    "ctc_step_seconds": 0.02,
+    "ctc_receptive_field_seconds": 0.025,
+    "confidence_definition": "geometric mean of character emission probabilities along forced CTC path; not calibrated boundary accuracy"
+  },
+  "numeric_normalization": {
+    "2008": "TWO THOUSAND EIGHT",
+    "1989": "NINETEEN EIGHTY NINE",
+    "10th": "TENTH",
+    "1,500": "FIFTEEN HUNDRED",
+    "100,000": "ONE HUNDRED THOUSAND",
+    "20,000": "TWENTY THOUSAND",
+    "50": "FIFTY"
+  },
+  "audio_source_indices_per_word": [
+    [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    [
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    [
+      161,
+      162,
+      163,
+      164
+    ],
+    [
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230
+    ],
+    [
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262
+    ]
+  ],
+  "vision_source_indices_per_word": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "feature_file": "features/-iRBcNs9oI8$_$6.npz",
+  "feature_sha256": "9d6fa3cf152b8b67dcb496214226d476c7aa1d064aa519fd9eab05113709e6a8",
+  "warnings": [
+    "low_alignment_confidence",
+    "some_words_without_valid_face"
+  ],
+  "padding_rule": "ragged full sequence; no truncation or padding on disk",
+  "face_selection": "largest detected face independently per sampled frame; not verified active speaker",
+  "status": "review_required",
+  "processing_seconds": 1.589,
+  "postprocessing": {
+    "operation": "float64 accumulation for word pooling; stored as float32",
+    "previous_feature_sha256": "c58cc127bdbc3b11e02ca891255841c0e59a2232274a5ff3e331473a3432d4c1",
+    "aggregation_code_sha256": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  }
+}

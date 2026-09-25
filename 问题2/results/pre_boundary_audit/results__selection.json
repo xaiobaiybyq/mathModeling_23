@@ -1,0 +1,36 @@
+{
+  "selected": "fixed",
+  "models": [
+    {
+      "model": "baseline",
+      "best_epoch": 5,
+      "selection_score": 0.23508862226077282,
+      "parameter_count": 1512538
+    },
+    {
+      "model": "no_augment",
+      "best_epoch": 8,
+      "selection_score": 0.22344251633589396,
+      "parameter_count": 1507930
+    },
+    {
+      "model": "no_mask",
+      "best_epoch": 9,
+      "selection_score": 0.23650389387937718,
+      "parameter_count": 1507930
+    },
+    {
+      "model": "fixed",
+      "best_epoch": 10,
+      "selection_score": 0.2413404576034548,
+      "parameter_count": 1507930
+    },
+    {
+      "model": "full",
+      "best_epoch": 8,
+      "selection_score": 0.23053237689872716,
+      "parameter_count": 1507930
+    }
+  ],
+  "rule": "mean(macro_f1 - mae/3) on fixed five-scenario valid panel"
+}

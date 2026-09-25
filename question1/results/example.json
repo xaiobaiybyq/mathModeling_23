@@ -1,0 +1,98 @@
+{
+  "id": "-THoVjtIkeU$_$2",
+  "selection_rule": "first source-table sample with all words aligned, zero low-confidence words, face rate > 0.8 and no multiple-face frames",
+  "raw_text": "I think social justice is extremely important for young people.",
+  "source_video": "-THoVjtIkeU/2.mp4",
+  "word_rows": [
+    {
+      "index": 0,
+      "word": "I",
+      "start_s": 0.04246874898672104,
+      "end_s": 0.0624687485396862,
+      "score": 0.802103579044342,
+      "audio_frames": 4,
+      "visual_frames": 2
+    },
+    {
+      "index": 1,
+      "word": "think",
+      "start_s": 0.16246874630451202,
+      "end_s": 0.3824687600135803,
+      "score": 0.9996175765991211,
+      "audio_frames": 24,
+      "visual_frames": 3
+    },
+    {
+      "index": 2,
+      "word": "social",
+      "start_s": 1.202468752861023,
+      "end_s": 1.4424687623977661,
+      "score": 0.9850919842720032,
+      "audio_frames": 26,
+      "visual_frames": 3
+    },
+    {
+      "index": 3,
+      "word": "justice",
+      "start_s": 1.5024687051773071,
+      "end_s": 1.7824687957763672,
+      "score": 0.9844581484794617,
+      "audio_frames": 30,
+      "visual_frames": 4
+    },
+    {
+      "index": 4,
+      "word": "is",
+      "start_s": 1.8624687194824219,
+      "end_s": 1.9024688005447388,
+      "score": 0.9994524121284485,
+      "audio_frames": 6,
+      "visual_frames": 1
+    },
+    {
+      "index": 5,
+      "word": "extremely",
+      "start_s": 1.9824687242507935,
+      "end_s": 2.362468719482422,
+      "score": 0.986912190914154,
+      "audio_frames": 40,
+      "visual_frames": 5
+    },
+    {
+      "index": 6,
+      "word": "important",
+      "start_s": 2.422468662261963,
+      "end_s": 2.782468795776367,
+      "score": 0.9999512434005737,
+      "audio_frames": 38,
+      "visual_frames": 5
+    },
+    {
+      "index": 7,
+      "word": "for",
+      "start_s": 2.862468719482422,
+      "end_s": 2.982468843460083,
+      "score": 0.9992773532867432,
+      "audio_frames": 14,
+      "visual_frames": 2
+    },
+    {
+      "index": 8,
+      "word": "young",
+      "start_s": 3.0824687480926514,
+      "end_s": 3.24246883392334,
+      "score": 0.9998305439949036,
+      "audio_frames": 18,
+      "visual_frames": 2
+    },
+    {
+      "index": 9,
+      "word": "people",
+      "start_s": 3.3224687576293945,
+      "end_s": 3.7024686336517334,
+      "score": 0.3422558009624481,
+      "audio_frames": 40,
+      "visual_frames": 5
+    }
+  ]
+}

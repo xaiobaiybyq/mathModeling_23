@@ -1,0 +1,18 @@
+{
+  "expected_samples": 100,
+  "produced_samples": 100,
+  "duration_sum_s": 787.5022,
+  "words": 1931,
+  "aligned_words": 1931,
+  "audio_words": 1931,
+  "vision_words": 1601,
+  "low_confidence_words": 342,
+  "video_frames": 7889,
+  "valid_face_frames": 6462,
+  "multiface_frames": 20,
+  "feature_bytes": 14977105,
+  "samples_needing_review": 69,
+  "samples_mean_alignment_score_below_0_1": 18,
+  "structural_validation_errors": [],
+  "manual_boundary_accuracy": "not measured; no human word-boundary reference supplied"
+}

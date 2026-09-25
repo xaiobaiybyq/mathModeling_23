@@ -1,0 +1,89 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "av": "14.2.0",
+    "opensmile": "2.6.0",
+    "mediapipe": "0.10.21",
+    "transformers": "4.57.6",
+    "torch": "2.8.0",
+    "pandas": "2.2.3",
+    "openpyxl": "3.1.5",
+    "pillow": "11.1.0"
+  },
+  "config": {
+    "sample_rate": 16000,
+    "video_sample_hz": 10.0,
+    "video_max_width": 640,
+    "face_detection_threshold": 0.5,
+    "face_presence_threshold": 0.5,
+    "text_model": "distilbert/distilbert-base-uncased",
+    "alignment_model": "facebook/wav2vec2-base-960h",
+    "text_chunk_words": 100,
+    "torch_threads": 4,
+    "alignment_review_threshold": 0.1,
+    "feature_dtype": "float32",
+    "seed": 20260923
+  },
+  "source_table_sha256": "827334f782b1f242c84ad944a657bc7f7c63643f71ae9c977811a3eecdd3ab33",
+  "code_sha256": {
+    "pipeline.py": "fa015ee24f13c5c4de4376abec8105ffa6e700a235973f439b6782ac6d0da6b8",
+    "alignment.py": "3386fc692a6e040778b261ad462d24836b8051c0e6642d0b043149dbd1b83eb5"
+  },
+  "models": {
+    "models": {
+      "text": {
+        "repository": "distilbert/distilbert-base-uncased",
+        "revision": "12040accade4e8a0f71eabdb258fecc2e7e948be",
+        "files": [
+          "config.json",
+          "model.safetensors",
+          "tokenizer.json",
+          "tokenizer_config.json",
+          "vocab.txt"
+        ]
+      },
+      "alignment": {
+        "repository": "facebook/wav2vec2-base-960h",
+        "revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+        "files": [
+          "config.json",
+          "model.safetensors",
+          "preprocessor_config.json",
+          "tokenizer_config.json",
+          "vocab.json",
+          "special_tokens_map.json"
+        ]
+      }
+    },
+    "face": {
+      "url": "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task",
+      "version": 1
+    },
+    "sha256": {
+      "text/config.json": "69c94b0222d5d1f4b0ad027ca7416cdafb98378cbbb8305d0bf47c9365c60c83",
+      "text/model.safetensors": "5e3f1108e3cb34ee048634875d8482665b65ac713291a7e32396fb18f6ff0063",
+      "text/tokenizer.json": "ce64fce797c24f68df90b40a3f74f579b336a493db14bd583fd520ea0d8c9a98",
+      "text/tokenizer_config.json": "a025160ef0431f1a392f6f050c1310f4c5d9fb6f275932dbccba73c4d214bf10",
+      "text/vocab.txt": "07eced375cec144d27c900241f3e339478dec958f92fddbc551f295c992038a3",
+      "alignment/config.json": "d3ec255c063d9f95057b553b19c20135b259875834a4fe9deb218a6be25b4cf3",
+      "alignment/model.safetensors": "8aa76ab2243c81747a1f832954586bc566090c83a0ac167df6f31f0fa917d74a",
+      "alignment/preprocessor_config.json": "b225d617c025463b9e157e06afea8b90dc7078fc70b013c533328423e0486b4a",
+      "alignment/tokenizer_config.json": "dc790594f5bc351a4311c6624f40acd95850d4aaf2a5cb3c656c9b610720b608",
+      "alignment/vocab.json": "19727f8944fe6459fc3f240ae2c198395b740f6a029bd23e06656266b83bcf64",
+      "alignment/special_tokens_map.json": "bb7068de1150661a10b55f9e4b12a0e77af8bf91f5e45e1b58afaf1d0e17f675",
+      "face_landmarker.task": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff"
+    }
+  },
+  "postprocessing": {
+    "script": "reaggregate.py",
+    "script_sha256": "7cf8ee44e44dbbc1e80ace88943ea038b4519e3dbae3a9665badbce45ca82053",
+    "original_extraction_code_sha256": {
+      "pipeline.py": "fa015ee24f13c5c4de4376abec8105ffa6e700a235973f439b6782ac6d0da6b8",
+      "alignment.py": "55ef43848afbf28b5e88aa4a260a4ce4d9ae48d18367a79c1b83b1ae85842498"
+    },
+    "operation": "recomputed only word-level pooling from unchanged raw arrays, using float64 accumulators"
+  }
+}

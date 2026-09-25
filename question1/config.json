@@ -1,0 +1,14 @@
+{
+  "sample_rate": 16000,
+  "video_sample_hz": 10.0,
+  "video_max_width": 640,
+  "face_detection_threshold": 0.5,
+  "face_presence_threshold": 0.5,
+  "text_model": "distilbert/distilbert-base-uncased",
+  "alignment_model": "facebook/wav2vec2-base-960h",
+  "text_chunk_words": 100,
+  "torch_threads": 4,
+  "alignment_review_threshold": 0.1,
+  "feature_dtype": "float32",
+  "seed": 20260923
+}

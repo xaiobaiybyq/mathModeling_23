@@ -1,7 +1,0 @@
-{
-  "variant": "tiny_weighted",
-  "best_epoch": 3,
-  "selection_score": 0.3290954295875157,
-  "loaded_pretrained_tensors": 39,
-  "parameters": 4492682
-}

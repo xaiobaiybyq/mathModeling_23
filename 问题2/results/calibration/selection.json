@@ -1,0 +1,40 @@
+{
+  "accepted": true,
+  "baseline": {
+    "ordinary_class_weight": 0.0,
+    "neutral_log_bias": 0.0,
+    "panel_score": 0.3373895692988692,
+    "selection_score": 0.3361724016280234,
+    "complete_accuracy": 0.5769230769230769,
+    "complete_macro_f1": 0.544898164904344,
+    "complete_mae": 0.6778661608695984,
+    "complete_pearson": 0.5439490862040881
+  },
+  "selected": {
+    "ordinary_class_weight": 0.15,
+    "neutral_log_bias": 0.0,
+    "panel_score": 0.3489821180719022,
+    "selection_score": 0.35337183440181885,
+    "complete_accuracy": 0.6002747252747253,
+    "complete_macro_f1": 0.5671591501018115,
+    "complete_mae": 0.6778661608695984,
+    "complete_pearson": 0.5439490862040881
+  },
+  "rule": "maximize half complete and half five-scenario mean of [(Accuracy+MacroF1)/2 - MAE/3], with complete Accuracy and MacroF1 no lower than baseline",
+  "candidate_grid": {
+    "ordinary_class_weight": [
+      0.0,
+      0.15,
+      0.3
+    ],
+    "neutral_log_bias": [
+      -0.4,
+      -0.2,
+      0.0,
+      0.2,
+      0.4
+    ]
+  },
+  "valid_only": true,
+  "target_used_for_selection": false
+}

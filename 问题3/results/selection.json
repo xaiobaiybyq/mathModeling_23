@@ -1,0 +1,10 @@
+{
+  "selected_width": 3,
+  "stride": 1,
+  "rule": "mean paired absolute class-probability change of selected versus random expanded window, divided by sqrt(expanded width); candidates 3/5/7, fixed stratified valid subset",
+  "validation_subset_size": 90,
+  "validation_indices_seed": 20260924,
+  "attachment4_used_for_selection": false,
+  "test_used_for_selection": false,
+  "top_evidence_rule": "maximum absolute class-probability change among windows with at least one nonzero original feature; retain direction; no merging"
+}

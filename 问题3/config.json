@@ -1,0 +1,12 @@
+{
+  "seed": 20260924,
+  "threads": 4,
+  "batch_size": 96,
+  "validation_per_class": 30,
+  "candidate_window_widths": [3, 5, 7],
+  "window_stride": 1,
+  "selection_extension": 2,
+  "low_alignment_confidence": 0.1,
+  "low_transcript_similarity": 0.5,
+  "alignment_sample_rate": 16000
+}
