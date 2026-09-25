@@ -24,6 +24,7 @@
 |`results/target_windows.csv`|附件4所有连续窗口的扰动响应|
 |`results/localization_diagnostics.csv`|逐样本词元匹配、CTC质量与视频帧核查|
 |`results/manual_review_template.csv`|20条原视频的人工回听/回看记录模板，核验栏保持空白|
+|`results/ai_review_results.csv`、`AI辅助核对报告.md`|20条主证据的自由解码语音与源视频帧自动复核；不等同人工回听|
 |`results/frames/*.png`|从原视频解码的证据帧|
 |`results/modality_share.svg`、`results/local_importance_curve.svg`|论文图|
 
@@ -37,6 +38,7 @@
 .problem2-venv/bin/python -m pip install -r 问题3/requirements.txt
 .problem2-venv/bin/python 问题3/problem3.py all
 .problem2-venv/bin/python 问题3/problem3.py verify
+.problem2-venv/bin/python 问题3/ai_review.py
 .problem2-venv/bin/python 问题3/report.py
 .problem2-venv/bin/python 问题3/package_check.py
 ```

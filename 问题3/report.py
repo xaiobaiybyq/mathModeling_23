@@ -80,12 +80,12 @@ def local_curve(rows):
     return chosen
 
 
-def case_card(row, title):
+def case_card(row, title, ai_review=None):
     time = "无法自动定位" if row["key_time_start_seconds"] == "" else (
         f"{float(row['key_time_start_seconds']):.2f}—{float(row['key_time_end_seconds']):.2f} 秒")
     image = (f"![{row['sample_id']} 的实际解码视频帧]({row['video_frame_path']})"
              if row["video_frame_path"] else "未能导出对应视频帧。")
-    return [f"### {title}：附件4 {row['sample_id']}", "",
+    card = [f"### {title}：附件4 {row['sample_id']}", "",
             f"预测类别 {row['polarity_name']}，强度 {fmt(row['predicted_strength'])}；主要参考模态 {row['primary_modality']}。"
             f"文本/语音/视觉作用占比分别为 {fmt(row['share_text'])}/{fmt(row['share_audio'])}/{fmt(row['share_vision'])}。",
             "", f"主证据位置为 [{row['key_start_position']}, {row['key_end_position_exclusive']})，"
@@ -94,6 +94,13 @@ def case_card(row, title):
             f"定位状态：{row['localization_status']}。",
             "", image, "",
             "视频帧由原视频在自动定位时间附近实际解码得到；仅有帧图不能证明该片段的语音与特征位置已人工对齐。", ""]
+    if ai_review and ai_review["audio_check"] == "possible_time_conflict":
+        card += [f"追加AI辅助复核提示：不输入参考转写的自由解码找到相似度"
+                 f"{fmt(ai_review['asr_phrase_similarity'], 3)}的短语，但其中点比原自动时间晚"
+                 f"{fmt(ai_review['asr_match_midpoint_offset_seconds'], 2)}秒。"
+                 "因此该自动时间及对应截图不能作为短语与视频同步的可靠证据；"
+                 "保留它作为定位失败案例，仍待人工回听。", ""]
+    return card
 
 
 def write_all(metric, selection, panel, validation_cases, rows, evidence):
@@ -101,6 +108,11 @@ def write_all(metric, selection, panel, validation_cases, rows, evidence):
     means, primary_counts = bar_chart(rows)
     curve = local_curve(rows)
     audit = json.loads((q3.OUT / "localization_audit.json").read_text(encoding="utf-8"))
+    ai_path = q3.OUT / "ai_review_results.csv"
+    ai_reviews = {r["sample_id"]: r for r in read_csv(ai_path)} if ai_path.exists() else {}
+    if ai_reviews:
+        assert set(ai_reviews) == {r["sample_id"] for r in rows}
+    ai_counts = Counter(r["audio_check"] for r in ai_reviews.values())
     target_audit = json.loads((q3.OUT / "target_audit.json").read_text(encoding="utf-8"))
     polarity = Counter(r["polarity_name"] for r in rows)
     mismatch = sum((r["polarity_class"] == 0 and r["predicted_strength"] >= 0) or
@@ -180,9 +192,17 @@ def write_all(metric, selection, panel, validation_cases, rows, evidence):
               "所有滑动窗口的概率与强度变化见[窗口明细](results/target_windows.csv)。附件4没有真实标签，不报告其Accuracy、F1、MAE或Pearson。", "",
               "## 5.6 典型解释卡及局部重要性", "",
               f"![附件4 {curve['sample_id']} 主模态局部重要性曲线](results/local_importance_curve.svg)", ""]
-    lines += case_card(curve, "可追溯的支持性片段")
+    if ai_reviews:
+        lines[lines.index("## 5.5 三模态作用与专项测试全量输出"):lines.index("## 5.5 三模态作用与专项测试全量输出")] = [
+            f"追加AI辅助核对：对20条原视频做不输入参考转写的CTC自由解码，"
+            f"{ai_counts['supports_time']}条主证据时间得到支持，"
+            f"{ai_counts['possible_time_conflict']}条可能冲突，"
+            f"{ai_counts['uncertain']}条无法判定；20条主证据帧与源视频指定帧逐像素一致。"
+            "自由解码与强制对齐共用声学模型，不能代替人工回听；详见"
+            "[AI辅助核对报告](AI辅助核对报告.md)。", ""]
+    lines += case_card(curve, "可追溯的支持性片段", ai_reviews.get(curve["sample_id"]))
     if failure and failure["sample_id"] != curve["sample_id"]:
-        lines += case_card(failure, "反向证据或定位质量警示案例")
+        lines += case_card(failure, "反向证据或定位质量警示案例", ai_reviews.get(failure["sample_id"]))
     lines += ["## 5.7 局限与复现", "",
               "连续遮挡既移除特征又改变显式覆盖率，因此敏感度包含两种变化的共同响应。模态间有互补与相关性，三模态占比不等于独立因果贡献。"
               "独立CTC的强制路径可能在转写与语音不符时给出低质量时间；附件4没有人工逐词边界，视频帧也不能单独证明词音同步。"

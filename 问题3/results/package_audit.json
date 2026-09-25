@@ -1,13 +1,14 @@
 {
   "candidate_package": "技术附件候选.zip",
-  "candidate_size_bytes": 47584806,
+  "candidate_size_bytes": 47592395,
   "limit_bytes": 50000000,
-  "reserve_bytes_for_final_paper": 2415194,
+  "reserve_bytes_for_final_paper": 2407605,
   "fits_without_final_paper": true,
-  "files": 288,
+  "files": 291,
   "contains_question1_100_features": true,
   "contains_question2_selected_checkpoints": true,
   "contains_question3_all_20_csv": true,
+  "contains_question3_ai_review": true,
   "contains_question3_paper_card_frames": 2,
   "contains_original_video_or_large_source_models": false,
   "final_competition_paper_included": false

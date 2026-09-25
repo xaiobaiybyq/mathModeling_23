@@ -32,8 +32,8 @@ Q2_FILES = [
 ]
 Q3_FILES = [
     "question3.txt", "README.md", "requirements.txt", "config.json", "problem3.py",
-    "localize.py", "report.py", "package_check.py", "论文问题三正文.md", "问题三实验报告.md",
-    "第三问成果交接.md",
+    "localize.py", "ai_review.py", "report.py", "package_check.py", "论文问题三正文.md",
+    "问题三实验报告.md", "AI辅助核对报告.md", "第三问成果交接.md",
 ]
 
 
@@ -79,6 +79,7 @@ def make_package():
                "fits_without_final_paper": size <= LIMIT, "files": archive_count,
                "contains_question1_100_features": True, "contains_question2_selected_checkpoints": True,
                "contains_question3_all_20_csv": True,
+               "contains_question3_ai_review": True,
                "contains_question3_paper_card_frames": len(frame_paths),
                "contains_original_video_or_large_source_models": False,
                "final_competition_paper_included": False}
